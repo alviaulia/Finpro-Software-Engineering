@@ -1,0 +1,3652 @@
+[
+  {
+    "ayatList": [
+      {
+        "arabText": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ\n",
+        "latinText": "qul a'ụżu birabbin-nās\n",
+        "translation": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,\n",
+        "audio": "audio_114001"
+      },
+      {
+        "arabText": "مَلِكِ النَّاسِۙ\n",
+        "latinText": "malikin-nās\n",
+        "translation": "Raja manusia,\n",
+        "audio": "audio_114002"
+      },
+      {
+        "arabText": "اِلٰهِ النَّاسِۙ\n",
+        "latinText": "ilāhin-nās\n",
+        "translation": "sembahan manusia,\n",
+        "audio": "audio_114003"
+      },
+      {
+        "arabText": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ\n",
+        "latinText": "min syarril-waswāsil-khannās\n",
+        "translation": "dari kejahatan (bisikan) setan yang bersembunyi,",
+        "audio": "audio_114004"
+      },
+      {
+        "arabText": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+        "latinText": "allażī yuwaswisu fī ṣudụrin-nās",
+        "translation": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+        "audio": "audio_114005"
+      },
+      {
+        "arabText": "مِنَ الْجِنَّةِ وَالنَّاسِ\n",
+        "latinText": "minal-jinnati wan-nās\n",
+        "translation": "dari (golongan) jin dan manusia.”",
+        "audio": "audio_114006"
+      }
+    ],
+    "jumlahAyat": 6,
+    "nama": "An-Nas",
+    "nomor": 114
+  },
+  {
+    "jumlahAyat": 5,
+    "nama": "Al-Falaq",
+    "nomor": 113,
+    "ayatList": [
+      {
+        "arabText": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ\n",
+        "latinText": "qul a'ụżu birabbil-falaq\n",
+        "translation": "Katakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),",
+        "audio": "audio_113001"
+      },
+      {
+        "arabText": "مِنْ شَرِّ مَا خَلَقَۙ\n",
+        "latinText": "min syarri mā khalaq\n",
+        "translation": "dari kejahatan (makhluk yang) Dia ciptakan,\n",
+        "audio": "audio_113002"
+      },
+      {
+        "arabText": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ\n",
+        "latinText": "wa min syarri gāsiqin iżā waqab\n",
+        "translation": "dan dari kejahatan malam apabila telah gelap gulita,\n",
+        "audio": "audio_113003"
+      },
+      {
+        "arabText": "وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ\n",
+        "latinText": "wa min syarrin-naffāṡāti fil-'uqad\n",
+        "translation": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),\n",
+        "audio": "audio_113004"
+      },
+      {
+        "arabText": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ",
+        "latinText": "wa min syarri ḥāsidin iżā ḥasad\n",
+        "translation": "dan dari kejahatan orang yang dengki apabila dia dengki.”\n",
+        "audio": "audio_113005"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 4,
+    "nama": "Al-Ikhlas",
+    "nomor": 112,
+    "ayatList": [
+      {
+        "arabText": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ\n",
+        "latinText": "qul huwallāhu aḥad\n",
+        "translation": "Katakanlah (Muhammad), “Dialah Allah, Yang Maha Esa.\n",
+        "audio": "audio_112001"
+      },
+      {
+        "arabText": "اَللّٰهُ الصَّمَدُۚ",
+        "latinText": "allāhuṣ-ṣamad",
+        "translation": "Allah tempat meminta segala sesuatu.\n",
+        "audio": "audio_112002"
+      },
+      {
+        "arabText": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ\n",
+        "latinText": "lam yalid wa lam yụlad\n",
+        "translation": "(Allah) tidak beranak dan tidak pula diperanakkan.\n",
+        "audio": "audio_112003"
+      },
+      {
+        "arabText": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ\n",
+        "latinText": "wa lam yakul lahụ kufuwan aḥad\n",
+        "translation": "Dan tidak ada sesuatu yang setara dengan Dia.”\n",
+        "audio": "audio_112004"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 5,
+    "nama": "Al-Lahab",
+    "nomor": 111,
+    "ayatList": [
+      {
+        "arabText": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ\n",
+        "latinText": "tabbat yadā abī lahabiw wa tabb\n",
+        "translation": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!\n",
+        "audio": "audio_111001"
+      },
+      {
+        "arabText": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ\n",
+        "latinText": "mā agnā 'an-hu māluhụ wa mā kasab\n",
+        "translation": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan.\n",
+        "audio": "audio_111002"
+      },
+      {
+        "arabText": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ\n",
+        "latinText": "sayaṣlā nāran żāta lahab\n",
+        "translation": "Kelak dia akan masuk ke dalam api yang bergejolak (neraka).\n",
+        "audio": "audio_111003"
+      },
+      {
+        "arabText": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ\n",
+        "latinText": "wamra`atuh, ḥammālatal-ḥaṭab\n",
+        "translation": "Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah).\n",
+        "audio": "audio_111004"
+      },
+      {
+        "arabText": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ\n",
+        "latinText": "fī jīdihā ḥablum mim masad\n",
+        "translation": "Di lehernya ada tali dari sabut yang dipintal.\n",
+        "audio": "audio_111005"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 3,
+    "nama": "An-Nasr",
+    "nomor": 110,
+    "ayatList": [
+      {
+        "arabText": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ\n",
+        "latinText": "iżā jā`a naṣrullāhi wal-fat-ḥ\n",
+        "translation": "Apabila telah datang pertolongan Allah dan kemenangan,\n",
+        "audio": "audio_110001"
+      },
+      {
+        "arabText": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ\n",
+        "latinText": "wa ra`aitan-nāsa yadkhulụna fī dīnillāhi afwājā\n",
+        "translation": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,\n",
+        "audio": "audio_110002"
+      },
+      {
+        "arabText": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا\n",
+        "latinText": "fa sabbiḥ biḥamdi rabbika wastagfir-h, innahụ kāna tawwābā\n",
+        "translation": "maka bertasbihlah dalam dengan Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat.\n",
+        "audio": "audio_110003"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 6,
+    "nama": "Al-Kafirun",
+    "nomor": 109,
+    "ayatList": [
+      {
+        "arabText": "قُلْ يٰٓاَيُّهَا الْكٰفِرُوْنَۙ\n",
+        "latinText": "qul yā ayyuhal-kāfirụn\n",
+        "translation": "Katakanlah (Muhammad), “Wahai orang-orang kafir!\n",
+        "audio": "audio_109001"
+      },
+      {
+        "arabText": "لَآ اَعْبُدُ مَا تَعْبُدُوْنَۙ\n",
+        "latinText": "lā a'budu mā ta'budụn\n",
+        "translation": "aku tidak akan menyembah apa yang kamu sembah,\n",
+        "audio": "audio_109002"
+      },
+      {
+        "arabText": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۚ\n",
+        "latinText": "wa lā antum 'ābidụna mā a'bud\n",
+        "translation": "dan kamu bukan penyembah apa yang aku sembah,\n",
+        "audio": "audio_109003"
+      },
+      {
+        "arabText": "وَلَآ اَنَا۠ عَابِدٌ مَّا عَبَدْتُّمْۙ\n",
+        "latinText": "wa lā ana 'ābidum mā 'abattum\n",
+        "translation": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,\n",
+        "audio": "audio_109004"
+      },
+      {
+        "arabText": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۗ\n",
+        "latinText": "wa lā antum 'ābidụna mā a'bud\n",
+        "translation": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah.\n",
+        "audio": "audio_109005"
+      },
+      {
+        "arabText": "لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِ\n",
+        "latinText": "lakum dīnukum wa liya dīn\n",
+        "translation": "Untukmu agamamu, dan untukku agamaku.”\n",
+        "audio": "audio_109006"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 3,
+    "nama": "Al-Kausar",
+    "nomor": 108,
+    "ayatList": [
+      {
+        "arabText": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ\n",
+        "latinText": "innā a'ṭainākal-kauṡar\n",
+        "translation": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak.\n",
+        "audio": "audio_108001"
+      },
+      {
+        "arabText": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ\n",
+        "latinText": "fa ṣalli lirabbika wan-ḥar\n",
+        "translation": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah).\n",
+        "audio": "audio_108002"
+      },
+      {
+        "arabText": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ\n",
+        "latinText": "inna syāni`aka huwal-abtar\n",
+        "translation": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah).\n",
+        "audio": "audio_108003"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 7,
+    "nama": "Al-Maun",
+    "nomor": 107,
+    "ayatList": [
+      {
+        "arabText": "اَرَءَيْتَ الَّذِيْ يُكَذِّبُ بِالدِّيْنِۗ\n",
+        "latinText": "a ra`aitallażī yukażżibu bid-dīn\n",
+        "translation": "Tahukah kamu (orang) yang mendustakan agama?\n",
+        "audio": "audio_107001"
+      },
+      {
+        "arabText": "فَذٰلِكَ الَّذِيْ يَدُعُّ الْيَتِيْمَۙ\n",
+        "latinText": "fa żālikallażī yadu''ul-yatīm\n",
+        "translation": "Maka itulah orang yang menghardik anak yatim,\n",
+        "audio": "audio_107002"
+      },
+      {
+        "arabText": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِيْنِۗ\n",
+        "latinText": "wa lā yaḥuḍḍu 'alā ṭa'āmil-miskīn\n",
+        "translation": "dan tidak mendorong memberi makan orang miskin.\n",
+        "audio": "audio_107003"
+      },
+      {
+        "arabText": "فَوَيْلٌ لِّلْمُصَلِّيْنَۙ\n",
+        "latinText": "fa wailul lil-muṣallīn\n",
+        "translation": "Maka celakalah orang yang salat,\n",
+        "audio": "audio_107004"
+      },
+      {
+        "arabText": "الَّذِيْنَ هُمْ عَنْ صَلَاتِهِمْ سَاهُوْنَۙ\n",
+        "latinText": "allażīna hum 'an ṣalātihim sāhụn\n",
+        "translation": "(yaitu) orang-orang yang lalai terhadap salatnya,\n",
+        "audio": "audio_107005"
+      },
+      {
+        "arabText": "الَّذِيْنَ هُمْ يُرَاۤءُوْنَۙ\n",
+        "latinText": "allażīna hum yurā`ụn\n",
+        "translation": "yang berbuat ria,\n",
+        "audio": "audio_107006"
+      },
+      {
+        "arabText": "وَيَمْنَعُوْنَ الْمَاعُوْنَ\n",
+        "latinText": "wa yamna'ụnal-mā'ụn\n",
+        "translation": "dan enggan (memberikan) bantuan.\n",
+        "audio": "audio_107007"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 4,
+    "nama": "Al-Quraisy",
+    "nomor": 106,
+    "ayatList": [
+      {
+        "arabText": "لِاِيْلٰفِ قُرَيْشٍۙ\n",
+        "latinText": "li`īlāfi quraīsy\n",
+        "translation": "Karena kebiasaan orang-orang Quraisy,\n",
+        "audio": "audio_106001"
+      },
+      {
+        "arabText": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ\n",
+        "latinText": "īlāfihim riḥlatasy-syitā`i waṣ-ṣaīf\n",
+        "translation": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.\n",
+        "audio": "audio_106002"
+      },
+      {
+        "arabText": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ\n",
+        "latinText": "falya'budụ rabba hāżal-baīt\n",
+        "translation": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),\n",
+        "audio": "audio_106003"
+      },
+      {
+        "arabText": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ\n",
+        "latinText": "allażī aṭ'amahum min jụ'iw wa āmanahum min khaụf\n",
+        "translation": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan.\n",
+        "audio": "audio_106004"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 5,
+    "nama": "Al-Fil",
+    "nomor": 105,
+    "ayatList": [
+      {
+        "arabText": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحٰبِ الْفِيْلِۗ\n",
+        "latinText": "a lam tara kaifa fa'ala rabbuka bi`aṣ-ḥābil-fīl\n",
+        "translation": "Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?\n",
+        "audio": "audio_105001"
+      },
+      {
+        "arabText": "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِيْ تَضْلِيْلٍۙ\n",
+        "latinText": "a lam yaj'al kaidahum fī taḍlīl\n",
+        "translation": "Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?\n",
+        "audio": "audio_105002"
+      },
+      {
+        "arabText": "وَّاَرْسَلَ عَلَيْهِمْ طَيْرًا اَبَابِيْلَۙ\n",
+        "latinText": "wa arsala 'alaihim ṭairan abābīl\n",
+        "translation": "dan Dia mengirimkan kepada mereka burung yang berbondong-bondong,\n",
+        "audio": "audio_105003"
+      },
+      {
+        "arabText": "تَرْمِيْهِمْ بِحِجَارَةٍ مِّنْ سِجِّيْلٍۙ\n",
+        "latinText": "tarmīhim biḥijāratim min sijjīl\n",
+        "translation": "yang melempari mereka dengan batu dari tanah liat yang dibakar,\n",
+        "audio": "audio_105004"
+      },
+      {
+        "arabText": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُوْلٍ\n",
+        "latinText": "fa ja'alahum ka'aṣfim ma`kụl\n",
+        "translation": "sehingga mereka dijadikan-Nya seperti daun-daun yang dimakan (ulat).\n",
+        "audio": "audio_105005"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 9,
+    "nama": "Al-Humazah",
+    "nomor": 104,
+    "ayatList": [
+      {
+        "arabText": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍۙ\n",
+        "latinText": "wailul likulli humazatil lumazah\n",
+        "translation": "Celakalah bagi setiap pengumpat dan pencela,\nۨ",
+        "audio": "audio_104001"
+      },
+      {
+        "arabText": "الَّذِيْ جَمَعَ مَالًا وَّعَدَّدَهٗۙ\n",
+        "latinText": "allażī jama'a mālaw wa 'addadah\n",
+        "translation": "yang mengumpulkan harta dan menghitung-hitungnya,\n",
+        "audio": "audio_104002"
+      },
+      {
+        "arabText": "يَحْسَبُ اَنَّ مَالَهٗٓ اَخْلَدَهٗۚ\n",
+        "latinText": "yaḥsabu anna mālahū akhladah\n",
+        "translation": "dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya.\n",
+        "audio": "audio_104003"
+      },
+      {
+        "arabText": "كَلَّا لَيُنْۢبَذَنَّ فِى الْحُطَمَةِۖ\n",
+        "latinText": "kallā layumbażanna fil-ḥuṭamah\n",
+        "translation": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah.\n",
+        "audio": "audio_104004"
+      },
+      {
+        "arabText": "وَمَآ اَدْرٰىكَ مَا الْحُطَمَةُ ۗ\n",
+        "latinText": "wa mā adrāka mal-ḥuṭamah\n",
+        "translation": "Dan tahukah kamu apakah (neraka) Hutamah itu?\n",
+        "audio": "audio_104005"
+      },
+      {
+        "arabText": "نَارُ اللّٰهِ الْمُوْقَدَةُۙ\n",
+        "latinText": "nārullāhil-mụqadah\n",
+        "translation": "(Yaitu) api (azab) Allah yang dinyalakan,\n",
+        "audio": "audio_104006"
+      },
+      {
+        "arabText": "الَّتِيْ تَطَّلِعُ عَلَى الْاَفْـِٕدَةِۗ\n",
+        "latinText": "allatī taṭṭali'u 'alal-af`idah\n",
+        "translation": "yang (membakar) sampai ke hati.\n",
+        "audio": "audio_104007"
+      },
+      {
+        "arabText": "اِنَّهَا عَلَيْهِمْ مُّؤْصَدَةٌۙ\n",
+        "latinText": "innahā 'alaihim mu`ṣadah\n",
+        "translation": "Sungguh, api itu ditutup rapat atas (diri) mereka,\n",
+        "audio": "audio_104008"
+      },
+      {
+        "arabText": "فِيْ عَمَدٍ مُّمَدَّدَةٍ\n",
+        "latinText": "fī 'amadim mumaddadah\n",
+        "translation": "(sedang mereka itu) diikat pada tiang-tiang yang panjang.\n",
+        "audio": "audio_104009"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 3,
+    "nama": "Al-Asr",
+    "nomor": 103,
+    "ayatList": [
+      {
+        "arabText": "وَالْعَصْرِۙ\n",
+        "latinText": "wal-'aṣr\n",
+        "translation": "Demi masa,\n",
+        "audio": "audio_103001"
+      },
+      {
+        "arabText": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ\n",
+        "latinText": "innal-insāna lafī khusr\n",
+        "translation": "sungguh, manusia berada dalam kerugian,\n",
+        "audio": "audio_103002"
+      },
+      {
+        "arabText": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ\n",
+        "latinText": "illallażīna āmanụ wa 'amiluṣ-ṣāliḥāti wa tawāṣau bil-ḥaqqi wa tawāṣau biṣ-ṣabr\n",
+        "translation": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran.\n",
+        "audio": "audio_103003"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 8,
+    "nama": "Al-Takasur",
+    "nomor": 102,
+    "ayatList": [
+      {
+        "arabText": "اَلْهٰىكُمُ التَّكَاثُرُۙ\n",
+        "latinText": "al-hākumut-takāṡur\n",
+        "translation": "Bermegah-megahan telah melalaikan kamu,\n",
+        "audio": "audio_102001"
+      },
+      {
+        "arabText": "حَتّٰى زُرْتُمُ الْمَقَابِرَۗ\n",
+        "latinText": "ḥattā zurtumul-maqābir\n",
+        "translation": "sampai kamu masuk ke dalam kubur.\n",
+        "audio": "audio_102002"
+      },
+      {
+        "arabText": "كَلَّا سَوْفَ تَعْلَمُوْنَۙ\n",
+        "latinText": "kallā saufa ta'lamụn\n",
+        "translation": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu),\n",
+        "audio": "audio_102003"
+      },
+      {
+        "arabText": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُوْنَ\n",
+        "latinText": "ṡumma kallā saufa ta'lamụn\n",
+        "translation": "kemudian sekali-kali tidak! Kelak kamu akan mengetahui.\n",
+        "audio": "audio_102004"
+      },
+      {
+        "arabText": "كَلَّا لَوْ تَعْلَمُوْنَ عِلْمَ الْيَقِيْنِۗ\n",
+        "latinText": "kallā lau ta'lamụna 'ilmal-yaqīn\n",
+        "translation": "Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti,\n",
+        "audio": "audio_102005"
+      },
+      {
+        "arabText": "لَتَرَوُنَّ الْجَحِيْمَۙ\n",
+        "latinText": "latarawunnal-jaḥīm\n",
+        "translation": "niscaya kamu benar-benar akan melihat neraka Jahim,\n",
+        "audio": "audio_102006"
+      },
+      {
+        "arabText": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِيْنِۙ\n",
+        "latinText": "ṡumma latarawunnahā 'ainal-yaqīn\n",
+        "translation": "kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri,\n",
+        "audio": "audio_102007"
+      },
+      {
+        "arabText": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَىِٕذٍ عَنِ النَّعِيْمِ\n",
+        "latinText": "ṡumma latus`alunna yauma`iżin 'anin-na'īm\n",
+        "translation": "kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu).\n"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 11,
+    "nama": "Al-Qariah",
+    "nomor": 101,
+    "ayatList": [
+      {
+        "arabText": "اَلْقَارِعَةُۙ\n",
+        "latinText": "al-qāri'ah\n",
+        "translation": "Hari Kiamat,\n",
+        "audio": "audio_101001"
+      },
+      {
+        "arabText": "مَا الْقَارِعَةُ ۚ\n",
+        "latinText": "mal-qāri'ah\n",
+        "translation": "Apakah hari Kiamat itu?\n",
+        "audio": "audio_101002"
+      },
+      {
+        "arabText": "وَمَآ اَدْرٰىكَ مَا الْقَارِعَةُ ۗ\n",
+        "latinText": "wa mā adrāka mal-qāri'ah\n",
+        "translation": "Dan tahukah kamu apakah hari Kiamat itu?\n",
+        "audio": "audio_101003"
+      },
+      {
+        "arabText": "يَوْمَ يَكُوْنُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوْثِۙ\n",
+        "latinText": "yauma yakụnun-nāsu kal-farāsyil-mabṡụṡ\n",
+        "translation": "Pada hari itu manusia seperti laron yang beterbangan,\n",
+        "audio": "audio_101004"
+      },
+      {
+        "arabText": "وَتَكُوْنُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوْشِۗ\n",
+        "latinText": "wa takụnul-jibālu kal-'ihnil-manfụsy\n",
+        "translation": "dan gunung-gunung seperti bulu yang dihambur-hamburkan.\n",
+        "audio": "audio_101005"
+      },
+      {
+        "arabText": "فَاَمَّا مَنْ ثَقُلَتْ مَوَازِينُهٗۙ\n",
+        "latinText": "fa ammā man ṡaqulat mawāzīnuh\n",
+        "translation": "Maka adapun orang yang berat timbangan (kebaikan)nya,\n",
+        "audio": "audio_101006"
+      },
+      {
+        "arabText": "فَهُوَ فِيْ عِيْشَةٍ رَّاضِيَةٍۗ\n",
+        "latinText": "fa huwa fī 'īsyatir rāḍiyah\n",
+        "translation": "maka dia berada dalam kehidupan yang memuaskan (senang).\n",
+        "audio": "audio_101007"
+      },
+      {
+        "arabText": "وَاَمَّا مَنْ خَفَّتْ مَوَازِيْنُهٗۙ\n",
+        "latinText": "wa ammā man khaffat mawāzīnuh\n",
+        "translation": "Dan adapun orang yang ringan timbangan (kebaikan)nya,\n",
+        "audio": "audio_101008"
+      },
+      {
+        "arabText": "فَاُمُّهُ هَاوِيَةٌ ۗ\n",
+        "latinText": "fa ummuhụ hāwiyah\n",
+        "translation": "maka tempat kembalinya adalah neraka Hawiyah.\n",
+        "audio": "audio_101009"
+      },
+      {
+        "arabText": "وَمَآ اَدْرٰىكَ مَا هِيَهْۗ\n",
+        "latinText": "wa mā adrāka mā hiyah\n",
+        "translation": "Dan tahukah kamu apakah neraka Hawiyah itu?\n",
+        "audio": "audio_101010"
+      },
+      {
+        "arabText": "نَارٌ حَامِيَةٌ\n",
+        "latinText": "nārun ḥāmiyah\n",
+        "translation": "(Yaitu) api yang sangat panas.\n",
+        "audio": "audio_101011"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 11,
+    "nama": "Al-Adiyat",
+    "nomor": 100,
+    "ayatList": [
+      {
+        "arabText": "وَالْعٰدِيٰتِ ضَبْحًاۙ\n",
+        "latinText": "wal-'ādiyāti ḍab-ḥā\n",
+        "translation": "Demi kuda perang yang berlari kencang terengah-engah,\n",
+        "audio": "audio_100001"
+      },
+      {
+        "arabText": "فَالْمُوْرِيٰتِ قَدْحًاۙ\n",
+        "latinText": "fal-mụriyāti qad-ḥā\n",
+        "translation": "dan kuda yang memercikkan bunga api (dengan pukulan kuku kakinya),\n",
+        "audio": "audio_100002"
+      },
+      {
+        "arabText": "فَالْمُغِيْرٰتِ صُبْحًاۙ\n",
+        "latinText": "fal-mugīrāti ṣub-ḥā\n",
+        "translation": "dan kuda yang menyerang (dengan tiba-tiba) pada waktu pagi,\n",
+        "audio": "audio_100003"
+      },
+      {
+        "arabText": "فَاَثَرْنَ بِهٖ نَقْعًاۙ\n",
+        "latinText": "fa aṡarna bihī naq'ā\n",
+        "translation": "sehingga menerbangkan debu,\n",
+        "audio": "audio_100004"
+      },
+      {
+        "arabText": "فَوَسَطْنَ بِهٖ جَمْعًاۙ\n",
+        "latinText": "fa wasaṭna bihī jam'ā\n",
+        "translation": "lalu menyerbu ke tengah-tengah kumpulan musuh,\n",
+        "audio": "audio_100005"
+      },
+      {
+        "arabText": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ ۚ\n",
+        "latinText": "innal-insāna lirabbihī lakanụd\n",
+        "translation": "sungguh, manusia itu sangat ingkar, (tidak bersyukur) kepada Tuhannya,\n",
+        "audio": "audio_100006"
+      },
+      {
+        "arabText": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ\n",
+        "latinText": "wa innahụ 'alā żālika lasyahīd\n",
+        "translation": "dan sesungguhnya dia (manusia) menyaksikan (mengakui) keingkarannya,\n",
+        "audio": "audio_100007"
+      },
+      {
+        "arabText": "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌ ۗ\n",
+        "latinText": "wa innahụ liḥubbil-khairi lasyadīd\n",
+        "translation": "dan sesungguhnya cintanya kepada harta benar-benar berlebihan.\n",
+        "audio": "audio_100008"
+      },
+      {
+        "arabText": "۞ اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُوْرِۙ\n",
+        "latinText": "a fa lā ya'lamu iżā bu'ṡira mā fil-qubụr\n",
+        "translation": "Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,\n",
+        "audio": "audio_100009"
+      },
+      {
+        "arabText": "وَحُصِّلَ مَا فِى الصُّدُوْرِۙ\n",
+        "latinText": "wa huṣṣila mā fiṣ-ṣudụr\n",
+        "translation": "dan apa yang tersimpan di dalam dada dilahirkan?\n",
+        "audio": "audio_100010"
+      },
+      {
+        "arabText": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌ\n",
+        "latinText": "inna rabbahum bihim yauma`iżil lakhabīr\n",
+        "translation": "sungguh, Tuhan mereka pada hari itu Mahateliti terhadap keadaan mereka.\n",
+        "audio": "audio_100011"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 8,
+    "nama": "Al-Zalzalah",
+    "nomor": 99,
+    "ayatList": [
+      {
+        "arabText": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ\n",
+        "latinText": "iżā zulzilatil-arḍu zilzālahā\n",
+        "translation": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,\n",
+        "audio": "audio_099001"
+      },
+      {
+        "arabText": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ\n",
+        "latinText": "wa akhrajatil-arḍu aṡqālahā\n",
+        "translation": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,\n",
+        "audio": "audio_099002"
+      },
+      {
+        "arabText": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ\n",
+        "latinText": "wa qālal-insānu mā lahā\n",
+        "translation": "Dan manusia bertanya, “Apa yang terjadi pada bumi ini?”\n",
+        "audio": "audio_099003"
+      },
+      {
+        "arabText": "يَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ\n",
+        "latinText": "yauma`iżin tuḥaddiṡu akhbārahā\n",
+        "translation": "Pada hari itu bumi menyampaikan beritanya,\n",
+        "audio": "audio_099004"
+      },
+      {
+        "arabText": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ\n",
+        "latinText": "bi`anna rabbaka auḥā lahā\n",
+        "translation": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya.\n",
+        "audio": "audio_099005"
+      },
+      {
+        "arabText": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya.\n",
+        "latinText": "yauma`iżiy yaṣdurun-nāsu asytātal liyurau a'mālahum\n",
+        "translation": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya.\n",
+        "audio": "audio_099006"
+      },
+      {
+        "arabText": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ\n",
+        "latinText": "fa may ya'mal miṡqāla żarratin khairay yarah\n",
+        "translation": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya,\n",
+        "audio": "audio_099007"
+      },
+      {
+        "arabText": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ\n",
+        "latinText": "wa may ya'mal miṡqāla żarratin syarray yarah\n",
+        "translation": "dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya.\n",
+        "audio": "audio_099008"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 8,
+    "nama": "Al-Bayyinah",
+    "nomor": 98,
+    "ayatList": [
+      {
+        "arabText": "لَمْ يَكُنِ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ وَالْمُشْرِكِيْنَ مُنْفَكِّيْنَ حَتّٰى تَأْتِيَهُمُ الْبَيِّنَةُۙ\n",
+        "latinText": "lam yakunillażīna kafarụ min ahlil-kitābi wal-musyrikīna munfakkīna ḥattā ta`tiyahumul-bayyinah\n",
+        "translation": "Orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik tidak akan meninggalkan (agama mereka) sampai datang kepada mereka bukti yang nyata,\n",
+        "audio": "audio_098001"
+      },
+      {
+        "arabText": "رَسُوْلٌ مِّنَ اللّٰهِ يَتْلُوْا صُحُفًا مُّطَهَّرَةًۙ\n",
+        "latinText": "rasụlum minallāhi yatlụ ṣuḥufam muṭahharah\n",
+        "translation": "(yaitu) seorang Rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang suci (Al-Qur'an),\n",
+        "audio": "audio_098002"
+      },
+      {
+        "arabText": "فِيْهَا كُتُبٌ قَيِّمَةٌ ۗ\n",
+        "latinText": "fīhā kutubung qayyimah\n",
+        "translation": "di dalamnya terdapat (isi) kitab-kitab yang lurus (benar).\n",
+        "audio": "audio_098003"
+      },
+      {
+        "arabText": "وَمَا تَفَرَّقَ الَّذِيْنَ اُوْتُوا الْكِتٰبَ اِلَّا مِنْۢ بَعْدِ مَا جَاۤءَتْهُمُ الْبَيِّنَةُ ۗ\n",
+        "latinText": "wa mā tafarraqallażīna ụtul-kitāba illā mim ba'di mā jā`at-humul-bayyinah\n",
+        "translation": "Dan tidaklah terpecah-belah orang-orang Ahli Kitab melainkan setelah datang kepada mereka bukti yang nyata.\n",
+        "audio": "audio_098004"
+      },
+      {
+        "arabText": "وَمَآ اُمِرُوْٓا اِلَّا لِيَعْبُدُوا اللّٰهَ مُخْلِصِيْنَ لَهُ الدِّيْنَ ەۙ حُنَفَاۤءَ وَيُقِيْمُوا الصَّلٰوةَ وَيُؤْتُوا الزَّكٰوةَ وَذٰلِكَ دِيْنُ الْقَيِّمَةِۗ\n",
+        "latinText": "wa mā umirū illā liya'budullāha mukhliṣīna lahud-dīna ḥunafā`a wa yuqīmuṣ-ṣalāta wa yu`tuz-zakāta wa żālika dīnul-qayyimah\n",
+        "translation": "Padahal mereka hanya diperintah menyembah Allah dengan ikhlas menaati-Nya semata-mata karena (menjalankan) agama, dan juga agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah agama yang lurus (benar).\n",
+        "audio": "audio_098005"
+      },
+      {
+        "arabText": "اِنَّ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ وَالْمُشْرِكِيْنَ فِيْ نَارِ جَهَنَّمَ خٰلِدِيْنَ فِيْهَاۗ اُولٰۤىِٕكَ هُمْ شَرُّ الْبَرِيَّةِۗ\n",
+        "latinText": "innallażīna kafarụ min ahlil-kitābi wal-musyrikīna fī nāri jahannama khālidīna fīhā, ulā`ika hum syarrul-bariyyah\n",
+        "translation": "Sungguh, orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik (akan masuk) ke neraka Jahanam; mereka kekal di dalamnya selama-lamanya. Mereka itu adalah sejahat-jahat makhluk.\n",
+        "audio": "audio_098006"
+      },
+      {
+        "arabText": "اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ اُولٰۤىِٕكَ هُمْ خَيْرُ الْبَرِيَّةِۗ\n",
+        "latinText": "innallażīna āmanụ wa 'amiluṣ-ṣāliḥāti ulā`ika hum khairul-bariyyah\n",
+        "translation": "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka itu adalah sebaik-baik makhluk.\n",
+        "audio": "audio_098007"
+      },
+      {
+        "arabText": "جَزَاۤؤُهُمْ عِنْدَ رَبِّهِمْ جَنّٰتُ عَدْنٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَآ اَبَدًا ۗرَضِيَ اللّٰهُ عَنْهُمْ وَرَضُوْا عَنْهُ ۗ ذٰلِكَ لِمَنْ خَشِيَ رَبَّهٗ\n",
+        "latinText": "jazā`uhum 'inda rabbihim jannātu 'adnin tajrī min taḥtihal-an-hāru khālidīna fīhā abadā, raḍiyallāhu 'an-hum wa raḍụ 'an-h, żālika liman khasyiya rabbah\n",
+        "translation": "Balasan mereka di sisi Tuhan mereka ialah surga ’Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Allah rida terhadap mereka dan mereka pun rida kepada-Nya. Yang demikian itu adalah (balasan) bagi orang yang takut kepada Tuhannya.\n",
+        "audio": "audio_098008"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 5,
+    "nama": "Al-Qadr",
+    "nomor": 97,
+    "ayatList": [
+      {
+        "arabText": "اِنَّآ اَنْزَلْنٰهُ فِيْ لَيْلَةِ الْقَدْرِ\n",
+        "latinText": "innā anzalnāhu fī lailatil-qadr\n",
+        "translation": "Sesungguhnya Kami telah menurunkannya (Al-Qur'an) pada malam qadar.\n",
+        "audio": "audio_097001"
+      },
+      {
+        "arabText": "وَمَآ اَدْرٰىكَ مَا لَيْلَةُ الْقَدْرِۗ\n",
+        "latinText": "wa mā adrāka mā lailatul-qadr\n",
+        "translation": "Dan tahukah kamu apakah malam kemuliaan itu?\n",
+        "audio": "audio_097002"
+      },
+      {
+        "arabText": "لَيْلَةُ الْقَدْرِ ەۙ خَيْرٌ مِّنْ اَلْفِ شَهْرٍۗ\n",
+        "latinText": "lailatul-qadri khairum min alfi syahr\n",
+        "translation": "Malam kemuliaan itu lebih baik daripada seribu bulan.\n",
+        "audio": "audio_097003"
+      },
+      {
+        "arabText": "تَنَزَّلُ الْمَلٰۤىِٕكَةُ وَالرُّوْحُ فِيْهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۛ\n",
+        "latinText": "tanazzalul-malā`ikatu war-rụḥu fīhā bi`iżni rabbihim, ming kulli amr\n",
+        "translation": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan.\n",
+        "audio": "audio_097004"
+      },
+      {
+        "arabText": "سَلٰمٌ ۛهِيَ حَتّٰى مَطْلَعِ الْفَجْرِ\n",
+        "latinText": "salāmun hiya ḥattā maṭla'il-fajr\n",
+        "translation": "Sejahteralah (malam itu) sampai terbit fajar.\n",
+        "audio": "audio_097005"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 19,
+    "nama": "Al-Alaq",
+    "nomor": 96,
+    "ayatList": [
+      {
+        "arabText": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ\n",
+        "latinText": "iqra` bismi rabbikallażī khalaq\n",
+        "translation": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan,\n",
+        "audio": "audio_096001"
+      },
+      {
+        "arabText": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ\n",
+        "latinText": "khalaqal-insāna min 'alaq\n",
+        "translation": "Dia telah menciptakan manusia dari segumpal darah.\n",
+        "audio": "audio_096002"
+      },
+
+      {
+        "arabText": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ\n",
+        "latinText": "iqra` wa rabbukal-akram\n",
+        "translation": "Bacalah, dan Tuhanmulah Yang Mahamulia,\n",
+        "audio": "audio_096003"
+      },
+      {
+        "arabText": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ\n",
+        "latinText": "allażī 'allama bil-qalam\n",
+        "translation": "Yang mengajar (manusia) dengan pena.\n",
+        "audio": "audio_096004"
+      },
+
+      {
+        "arabText": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ\n",
+        "latinText": "'allamal-insāna mā lam ya'lam\n",
+        "translation": "Dia mengajarkan manusia apa yang tidak diketahuinya.\n",
+        "audio": "audio_096005"
+      },
+      {
+        "arabText": "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓ ۙ\n",
+        "latinText": "kallā innal-insāna layaṭgā\n",
+        "translation": "Sekali-kali tidak! Sungguh, manusia itu benar-benar melampaui batas,\n",
+        "audio": "audio_096006"
+      },
+
+      {
+        "arabText": "اَنْ رَّاٰهُ اسْتَغْنٰىۗ\n",
+        "latinText": "ar ra`āhustagnā\n",
+        "translation": "apabila melihat dirinya serba cukup.\n",
+        "audio": "audio_096007"
+      },
+      {
+        "arabText": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۗ\n",
+        "latinText": "inna ilā rabbikar-ruj'ā\n",
+        "translation": "Sungguh, hanya kepada Tuhanmulah tempat kembali(mu).\n",
+        "audio": "audio_096008"
+      },
+
+      {
+        "arabText": "اَرَاَيْتَ الَّذِيْ يَنْهٰىۙ\n",
+        "latinText": "a ra`aitallażī yan-hā\n",
+        "translation": "Bagaimana pendapatmu tentang orang yang melarang?\n",
+        "audio": "audio_096009"
+      },
+      {
+        "arabText": "عَبْدًا اِذَا صَلّٰىۗ\n",
+        "latinText": "'abdan iżā ṣallā\n",
+        "translation": "seorang hamba ketika dia melaksanakan salat,\n",
+        "audio": "audio_096010"
+      },
+      {
+        "arabText": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىٓۙ\n",
+        "latinText": "a ra`aita ing kāna 'alal-hudā\n",
+        "translation": "bagaimana pendapatmu jika dia (yang dilarang salat itu) berada di atas kebenaran (petunjuk),\n",
+        "audio": "audio_096011"
+      },
+      {
+        "arabText": "اَوْ اَمَرَ بِالتَّقْوٰىۗ\n",
+        "latinText": "au amara bit-taqwā\n",
+        "translation": "atau dia menyuruh bertakwa (kepada Allah)?\n",
+        "audio": "audio_096011"
+      },
+
+      {
+        "arabText": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۗ\n",
+        "latinText": "a ra`aita ing każżaba wa tawallā\n",
+        "translation": "Bagaimana pendapatmu jika dia (yang melarang) itu mendustakan dan berpaling?\n",
+        "audio": "audio_096013"
+      },
+      {
+        "arabText": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۗ\n",
+        "latinText": "a lam ya'lam bi`annallāha yarā\n",
+        "translation": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?\n",
+        "audio": "audio_096014"
+      },
+
+      {
+        "arabText": "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ ەۙ لَنَسْفَعًاۢ بِالنَّاصِيَةِۙ\n",
+        "latinText": "kallā la`il lam yantahi lanasfa'am bin-nāṣiyah\n",
+        "translation": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya, (ke dalam neraka),\n",
+        "audio": "audio_096015"
+      },
+      {
+        "arabText": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ\n",
+        "latinText": "nāṣiyating kāżibatin khāṭi`ah\n",
+        "translation": "(yaitu) ubun-ubun orang yang mendustakan dan durhaka.\n",
+        "audio": "audio_096016"
+      },
+
+      {
+        "arabText": "فَلْيَدْعُ نَادِيَهٗۙ\n",
+        "latinText": "falyad'u nādiyah\n",
+        "translation": "Maka biarlah dia memanggil golongannya (untuk menolongnya),\n",
+        "audio": "audio_096017"
+      },
+      {
+        "arabText": "سَنَدْعُ الزَّبَانِيَةَۙ\n",
+        "latinText": "sanad'uz-zabāniyah\n",
+        "translation": "Kelak Kami akan memanggil Malaikat Zabaniyah, (penyiksa orang-orang yang berdosa),\n",
+        "audio": "audio_096018"
+      },
+
+      {
+        "arabText": "كَلَّاۗ لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩\n",
+        "latinText": "kallā, lā tuṭi'hu wasjud waqtarib\n",
+        "translation": "sekali-kali tidak! Janganlah kamu patuh kepadanya; dan sujudlah serta dekatkanlah (dirimu kepada Allah).\n",
+        "audio": "audio_096019"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 8,
+    "nama": "At-Tin",
+    "nomor": 95,
+    "ayatList": [
+      {
+        "arabText": "وَالتِّيْنِ وَالزَّيْتُوْنِۙ\n",
+        "latinText": "wat-tīni waz-zaitụn\n",
+        "translation": "Demi (buah) Tin dan (buah) Zaitun,\n",
+        "audio": "audio_095001"
+      },
+      {
+        "arabText": "وَطُوْرِ سِيْنِيْنَۙ\n",
+        "latinText": "wa ṭụri sīnīn\n",
+        "translation": "demi gunung Sinai,\n",
+        "audio": "audio_095002"
+      },
+      {
+        "arabText": "وَهٰذَا الْبَلَدِ الْاَمِيْنِۙ\n",
+        "latinText": "wa hāżal-baladil-amīn\n",
+        "translation": "dan demi negeri (Mekah) yang aman ini.\n",
+        "audio": "audio_095003"
+      },
+      {
+        "arabText": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْٓ اَحْسَنِ تَقْوِيْمٍۖ\n",
+        "latinText": "laqad khalaqnal-insāna fī aḥsani taqwīm\n",
+        "translation": "Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya,\n",
+        "audio": "audio_095004"
+      },
+      {
+        "arabText": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سَافِلِيْنَۙ\n",
+        "latinText": "ṡumma radadnāhu asfala sāfilīn\n",
+        "translation": "kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya,\n",
+        "audio": "audio_095005"
+      },
+      {
+        "arabText": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍۗ\n",
+        "latinText": "illallażīna āmanụ wa 'amiluṣ-ṣāliḥāti fa lahum ajrun gairu mamnụn\n",
+        "translation": "kecuali orang-orang yang beriman dan mengerjakan kebajikan; maka mereka akan mendapat pahala yang tidak ada putus-putusnya.\n",
+        "audio": "audio_095006"
+      },
+      {
+        "arabText": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّيْنِۗ\n",
+        "latinText": "fa mā yukażżibuka ba'du bid-dīn\n",
+        "translation": "Maka apa yang menyebabkan (mereka) mendustakanmu (tentang) hari pembalasan setelah (adanya keterangan-keterangan) itu?\n",
+        "audio": "audio_095007"
+      },
+      {
+        "arabText": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَ\n",
+        "latinText": "a laisallāhu bi`aḥkamil-ḥākimīn\n",
+        "translation": "Bukankah Allah hakim yang paling adil?\n",
+        "audio": "audio_095008"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 8,
+    "nama": "Al-Insyirah",
+    "nomor": 94,
+    "ayatList": [
+      {
+        "arabText": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ\n",
+        "latinText": "a lam nasyraḥ laka ṣadrak\n",
+        "translation": "Bukankah Kami telah melapangkan dadamu (Muhammad)?\n",
+        "audio": "audio_094001"
+      },
+      {
+        "arabText": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ\n",
+        "latinText": "wa waḍa'nā 'angka wizrak\n",
+        "translation": "dan Kami pun telah menurunkan bebanmu darimu,\n",
+        "audio": "audio_094002"
+      },
+      {
+        "arabText": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ\n",
+        "latinText": "allażī angqaḍa ẓahrak\n",
+        "translation": "yang memberatkan punggungmu,\n",
+        "audio": "audio_094003"
+      },
+      {
+        "arabText": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ\n",
+        "latinText": "wa rafa'nā laka żikrak\n",
+        "translation": "dan Kami tinggikan sebutan (nama)mu bagimu.\n",
+        "audio": "audio_094004"
+      },
+      {
+        "arabText": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ\n",
+        "latinText": "fa inna ma'al-'usri yusrā\n",
+        "translation": "fa inna ma'al-'usri yusrā\n",
+        "audio": "audio_094005"
+      },
+      {
+        "arabText": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ\n",
+        "latinText": "inna ma'al-'usri yusrā\n",
+        "translation": "sesungguhnya beserta kesulitan itu ada kemudahan.\n",
+        "audio": "audio_094006"
+      },
+      {
+        "arabText": "فَاِذَا فَرَغْتَ فَانْصَبْۙ\n",
+        "latinText": "fa iżā faragta fanṣab\n",
+        "translation": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),\n",
+        "audio": "audio_094007"
+      },
+      {
+        "arabText": "وَاِلٰى رَبِّكَ فَارْغَبْ\n",
+        "latinText": "wa ilā rabbika fargab\n",
+        "translation": "dan hanya kepada Tuhanmulah engkau berharap.\n",
+        "audio": "audio_094008"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 11,
+    "nama": "Ad-Duha",
+    "nomor": 93,
+    "ayatList": [
+      {
+        "arabText": "وَالضُّحٰىۙ\n",
+        "latinText": "waḍ-ḍuḥā",
+        "translation": "Demi waktu duha (ketika matahari naik sepenggalah),",
+        "audio": "audio_093001"
+      },
+      {
+        "arabText": "وَالَّيْلِ اِذَا سَجٰىۙ\n",
+        "latinText": "wal-laili iżā sajā\n",
+        "translation": "dan demi malam apabila telah sunyi,\n",
+        "audio": "audio_093002"
+      },
+      {
+        "arabText": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۗ\n",
+        "latinText": "mā wadda'aka rabbuka wa mā qalā\n",
+        "translation": "Tuhanmu tidak meninggalkan engkau (Muhammad) dan tidak (pula) membencimu,\n",
+        "audio": "audio_093003"
+      },
+      {
+        "arabText": "وَلَلْاٰخِرَةُ خَيْرٌ لَّكَ مِنَ الْاُوْلٰىۗ\n",
+        "latinText": "wa lal-ākhiratu khairul laka minal-ụlā\n",
+        "translation": "dan sungguh, yang kemudian itu lebih baik bagimu dari yang permulaan.\n",
+        "audio": "audio_093004"
+      },
+      {
+        "arabText": "وَلَسَوْفَ يُعْطِيْكَ رَبُّكَ فَتَرْضٰىۗ\n",
+        "latinText": "wa lasaufa yu'ṭīka rabbuka fa tarḍā\n",
+        "translation": "Dan sungguh, kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, sehingga engkau menjadi puas.\n",
+        "audio": "audio_093005"
+      },
+      {
+        "arabText": "اَلَمْ يَجِدْكَ يَتِيْمًا فَاٰوٰىۖ\n",
+        "latinText": "a lam yajidka yatīman fa āwā\n",
+        "translation": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(mu),\n",
+        "audio": "audio_093006"
+      },
+      {
+        "arabText": "وَوَجَدَكَ ضَاۤلًّا فَهَدٰىۖ\n",
+        "latinText": "wa wajadaka ḍāllan fa hadā\n",
+        "translation": "dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk,\n",
+        "audio": "audio_093007"
+      },
+      {
+        "arabText": "وَوَجَدَكَ عَاۤىِٕلًا فَاَغْنٰىۗ\n",
+        "latinText": "wa wajadaka 'ā`ilan fa agnā\n",
+        "translation": "dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan.\n",
+        "audio": "audio_093008"
+      },
+      {
+        "arabText": "فَاَمَّا الْيَتِيْمَ فَلَا تَقْهَرْۗ\n",
+        "latinText": "fa ammal-yatīma fa lā taq-har\n",
+        "translation": "Maka terhadap anak yatim janganlah engkau berlaku sewenang-wenang.\n",
+        "audio": "audio_093009"
+      },
+      {
+        "arabText": "وَاَمَّا السَّاۤىِٕلَ فَلَا تَنْهَرْ\n",
+        "latinText": "wa ammas-sā`ila fa lā tan-har\n",
+        "translation": "Dan terhadap orang yang meminta-minta janganlah engkau menghardik(nya).\n",
+        "audio": "audio_093010"
+      },
+      {
+        "arabText": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ\n",
+        "latinText": "wa ammā bini'mati rabbika fa ḥaddiṡ\n",
+        "translation": "Dan terhadap nikmat Tuhanmu hendaklah engkau nyatakan (dengan bersyukur).\n",
+        "audio": "audio_093011"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 21,
+    "nama": "Al-Lail",
+    "nomor": 92,
+    "ayatList": [
+      {
+        "arabText": "وَالَّيْلِ اِذَا يَغْشٰىۙ\n",
+        "latinText": "wal-laili iżā yagsyā\n",
+        "translation": "Demi malam apabila menutupi (cahaya siang),\n",
+        "audio": "audio_092001"
+      },
+      {
+        "arabText": "وَالنَّهَارِ اِذَا تَجَلّٰىۙ\n",
+        "latinText": "wan-nahāri iżā tajallā\n",
+        "translation": "demi siang apabila terang benderang,\n",
+        "audio": "audio_092002"
+      },
+      {
+        "arabText": "وَمَا خَلَقَ الذَّكَرَ وَالْاُنْثٰىٓ ۙ\n",
+        "latinText": "wa mā khalaqaż-żakara wal-unṡā\n",
+        "translation": "demi penciptaan laki-laki dan perempuan,\n",
+        "audio": "audio_092003"
+      },
+      {
+        "arabText": "اِنَّ سَعْيَكُمْ لَشَتّٰىۗ\n",
+        "latinText": "inna sa'yakum lasyattā\n",
+        "translation": "sungguh, usahamu memang beraneka macam.\n",
+        "audio": "audio_092004"
+      },
+      {
+        "arabText": "فَاَمَّا مَنْ اَعْطٰى وَاتَّقٰىۙ\n",
+        "latinText": "fa ammā man a'ṭā wattaqā\n",
+        "translation": "Maka barangsiapa memberikan (hartanya di jalan Allah) dan bertakwa,\n",
+        "audio": "audio_092005"
+      },
+      {
+        "arabText": "وَصَدَّقَ بِالْحُسْنٰىۙ\n",
+        "latinText": "wa ṣaddaqa bil-ḥusnā\n",
+        "translation": "dan membenarkan (adanya pahala) yang terbaik (surga),\n",
+        "audio": "audio_092006"
+      },
+      {
+        "arabText": "فَسَنُيَسِّرُهٗ لِلْيُسْرٰىۗ\n",
+        "latinText": "fa sanuyassiruhụ lil-yusrā\n",
+        "translation": "maka akan Kami mudahkan baginya jalan menuju kemudahan (kebahagiaan),\n",
+        "audio": "audio_092007"
+      },
+      {
+        "arabText": "وَاَمَّا مَنْۢ بَخِلَ وَاسْتَغْنٰىۙ\n",
+        "latinText": "wa ammā mam bakhila wastagnā\n",
+        "translation": "dan adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah),\n",
+        "audio": "audio_092008"
+      },
+      {
+        "arabText": "وَكَذَّبَ بِالْحُسْنٰىۙ\n",
+        "latinText": "wa każżaba bil-ḥusnā\n",
+        "translation": "serta mendustakan (pahala) yang terbaik,\n",
+        "audio": "audio_092009"
+      },
+      {
+        "arabText": "فَسَنُيَسِّرُهٗ لِلْعُسْرٰىۗ\n",
+        "latinText": "fa sanuyassiruhụ lil-'usrā\n",
+        "translation": "maka akan Kami mudahkan baginya jalan menuju kesukaran (kesengsaraan),\n",
+        "audio": "audio_092010"
+      },
+      {
+        "arabText": "وَمَا يُغْنِيْ عَنْهُ مَالُهٗٓ اِذَا تَرَدّٰىٓۙ\n",
+        "latinText": "wa mā yugnī 'an-hu māluhū iżā taraddā\n",
+        "translation": "dan hartanya tidak bermanfaat baginya apabila dia telah binasa.\n",
+        "audio": "audio_092011"
+      },
+      {
+        "arabText": "اِنَّ عَلَيْنَا لَلْهُدٰىۖ",
+        "latinText": "inna 'alainā lal-hudā\n",
+        "translation": "Sesungguhnya Kamilah yang memberi petunjuk,\n",
+        "audio": "audio_092012"
+      },
+      {
+        "arabText": "وَاِنَّ لَنَا لَلْاٰخِرَةَ وَالْاُوْلٰىۗ\n",
+        "latinText": "wa inna lanā lal-ākhirata wal-ụlā\n",
+        "translation": "dan sesungguhnya milik Kamilah akhirat dan dunia itu.\n",
+        "audio": "audio_092013"
+      },
+      {
+        "arabText": "فَاَنْذَرْتُكُمْ نَارًا تَلَظّٰىۚ\n",
+        "latinText": "fa anżartukum nāran talaẓẓā\n",
+        "translation": "Maka Aku memperingatkan kamu dengan neraka yang menyala-nyala,\n",
+        "audio": "audio_092014"
+      },
+      {
+        "arabText": "لَا يَصْلٰىهَآ اِلَّا الْاَشْقَىۙ\n",
+        "latinText": "lā yaṣlāhā illal-asyqā\n",
+        "translation": "yang hanya dimasuki oleh orang yang paling celaka,\n",
+        "audio": "audio_092015"
+      },
+      {
+        "arabText": "الَّذِيْ كَذَّبَ وَتَوَلّٰىۗ\n",
+        "latinText": "allażī każżaba wa tawallā\n",
+        "translation": "yang mendustakan (kebenaran) dan berpaling (dari iman).\n",
+        "audio": "audio_092016"
+      },
+      {
+        "arabText": "وَسَيُجَنَّبُهَا الْاَتْقَىۙ\n",
+        "latinText": "wa sayujannabuhal-atqā\n",
+        "translation": "Dan akan dijauhkan darinya (neraka) orang yang paling bertakwa,\n",
+        "audio": "audio_092017"
+      },
+      {
+        "arabText": "الَّذِيْ يُؤْتِيْ مَالَهٗ يَتَزَكّٰىۚ\n",
+        "latinText": "allażī yu`tī mālahụ yatazakkā\n",
+        "translation": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya),\n",
+        "audio": "audio_092018"
+      },
+      {
+        "arabText": "وَمَا لِاَحَدٍ عِنْدَهٗ مِنْ نِّعْمَةٍ تُجْزٰىٓۙ\n",
+        "latinText": "wa mā li`aḥadin 'indahụ min ni'matin tujzā\n",
+        "translation": "dan tidak ada seorang pun memberikan suatu nikmat padanya yang harus dibalasnya,\n",
+        "audio": "audio_092019"
+      },
+      {
+        "arabText": "اِلَّا ابْتِغَاۤءَ وَجْهِ رَبِّهِ الْاَعْلٰىۚ\n",
+        "latinText": "illabtigā`a waj-hi rabbihil-a'lā\n",
+        "translation": "tetapi (dia memberikan itu semata-mata) karena mencari keridaan Tuhannya Yang Mahatinggi.\n",
+        "audio": "audio_092020"
+      },
+      {
+        "arabText": "وَلَسَوْفَ يَرْضٰى\n",
+        "latinText": "wa lasaufa yarḍā\n",
+        "translation": "Dan niscaya kelak dia akan mendapat kesenangan (yang sempurna).\n",
+        "audio": "audio_092021"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 15,
+    "nama": "Al-Syams",
+    "nomor": 91,
+    "ayatList": [
+      {
+        "arabText": "وَالشَّمْسِ وَضُحٰىهَاۖ\n",
+        "latinText": "wasy-syamsi wa ḍuḥāhā\n",
+        "translation": "Demi matahari dan sinarnya pada pagi hari,\n",
+        "audio": "audio_091001"
+      },
+      {
+        "arabText": "وَالْقَمَرِ اِذَا تَلٰىهَاۖ\n",
+        "latinText": "wal-qamari iżā talāhā\n",
+        "translation": "demi bulan apabila mengiringinya,\n",
+        "audio": "audio_091002"
+      },
+      {
+        "arabText": "وَالنَّهَارِ اِذَا جَلّٰىهَاۖ\n",
+        "latinText": "wan-nahāri iżā jallāhā\n",
+        "translation": "demi siang apabila menampakkannya,\n",
+        "audio": "audio_091003"
+      },
+      {
+        "arabText": "وَالَّيْلِ اِذَا يَغْشٰىهَاۖ\n",
+        "latinText": "wal-laili iżā yagsyāhā\n",
+        "translation": "demi malam apabila menutupinya (gelap gulita),\n",
+        "audio": "audio_091004"
+      },
+      {
+        "arabText": "وَالسَّمَاۤءِ وَمَا بَنٰىهَاۖ\n",
+        "latinText": "was-samā`i wa mā banāhā\n",
+        "translation": "demi langit serta pembinaannya (yang menakjubkan),\n",
+        "audio": "audio_091005"
+      },
+      {
+        "arabText": "وَالْاَرْضِ وَمَا طَحٰىهَاۖ\n",
+        "latinText": "wal-arḍi wa mā ṭaḥāhā\n",
+        "translation": "demi bumi serta penghamparannya,\n",
+        "audio": "audio_091006"
+      },
+      {
+        "arabText": "وَنَفْسٍ وَّمَا سَوّٰىهَاۖ\n",
+        "latinText": "wa nafsiw wa mā sawwāhā\n",
+        "translation": "demi jiwa serta penyempurnaan (ciptaan)nya,\n",
+        "audio": "audio_091007"
+      },
+      {
+        "arabText": "فَاَلْهَمَهَا فُجُوْرَهَا وَتَقْوٰىهَاۖ\n",
+        "latinText": "fa al-hamahā fujụrahā wa taqwāhā\n",
+        "translation": "maka Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,\n",
+        "audio": "audio_091008"
+      },
+      {
+        "arabText": "قَدْ اَفْلَحَ مَنْ زَكّٰىهَاۖ\n",
+        "latinText": "qad aflaḥa man zakkāhā\n",
+        "translation": "sungguh beruntung orang yang menyucikannya (jiwa itu),\n",
+        "audio": "audio_091009"
+      },
+      {
+        "arabText": "وَقَدْ خَابَ مَنْ دَسّٰىهَاۗ\n",
+        "latinText": "wa qad khāba man dassāhā\n",
+        "translation": "dan sungguh rugi orang yang mengotorinya.\n",
+        "audio": "audio_091010"
+      },
+      {
+        "arabText": "كَذَّبَتْ ثَمُوْدُ بِطَغْوٰىهَآ ۖ\n",
+        "latinText": "każżabaṡ ṡamụdu biṭagwāhā\n",
+        "translation": "(Kaum) samud telah mendustakan (rasulnya) karena mereka melampaui batas (zalim),\n",
+        "audio": "audio_091011"
+      },
+      {
+        "arabText": "اِذِ انْۢبَعَثَ اَشْقٰىهَاۖ\n",
+        "latinText": "iżimba'aṡa asyqāhā\n",
+        "translation": "ketika bangkit orang yang paling celaka di antara mereka,\n",
+        "audio": "audio_091012"
+      },
+      {
+        "arabText": "فَقَالَ لَهُمْ رَسُوْلُ اللّٰهِ نَاقَةَ اللّٰهِ وَسُقْيٰهَاۗ\n",
+        "latinText": "fa qāla lahum rasụlullāhi nāqatallāhi wa suqyāhā\n",
+        "translation": "lalu Rasul Allah (Saleh) berkata kepada mereka, “(Biarkanlah) unta betina dari Allah ini dengan minumannya.”\n",
+        "audio": "audio_091013"
+      },
+      {
+        "arabText": "فَكَذَّبُوْهُ فَعَقَرُوْهَاۖ فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْۢبِهِمْ فَسَوّٰىهَاۖ\n",
+        "latinText": "fa każżabụhu fa 'aqarụhā fa damdama 'alaihim rabbuhum biżambihim fa sawwāhā\n",
+        "translation": "Namun mereka mendustakannya dan menyembelihnya, karena itu Tuhan membinasakan mereka karena dosanya, lalu diratakan-Nya (dengan tanah),\n",
+        "audio": "audio_091014"
+      },
+      {
+        "arabText": "وَلَا يَخَافُ عُقْبٰهَا\n",
+        "latinText": "wa lā yakhāfu 'uqbāhā\n",
+        "translation": "dan Dia tidak takut terhadap akibatnya.\n",
+        "audio": "audio_091015"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 20,
+    "nama": "Al-Balad",
+    "nomor": 90,
+    "ayatList": [
+      {
+        "arabText": "لَآ اُقْسِمُ بِهٰذَا الْبَلَدِۙ\n",
+        "latinText": "lā uqsimu bihāżal-balad\n",
+        "translation": "Aku bersumpah dengan negeri ini (Mekah),\n",
+        "audio": "audio_090001"
+      },
+      {
+        "arabText": "وَاَنْتَ حِلٌّۢ بِهٰذَا الْبَلَدِۙ\n",
+        "latinText": "wa anta ḥillum bihāżal-balad\n",
+        "translation": "dan engkau (Muhammad), bertempat di negeri (Mekah) ini,\n",
+        "audio": "audio_090002"
+      },
+      {
+        "arabText": "وَوَالِدٍ وَّمَا وَلَدَۙ\n",
+        "latinText": "wa wālidiw wa mā walad\n",
+        "translation": "dan demi (pertalian) bapak dan anaknya.\n",
+        "audio": "audio_090003"
+      },
+      {
+        "arabText": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْ كَبَدٍۗ\n",
+        "latinText": "laqad khalaqnal-insāna fī kabad\n",
+        "translation": "Sungguh, Kami telah menciptakan manusia berada dalam susah payah.\n",
+        "audio": "audio_090004"
+      },
+      {
+        "arabText": "اَيَحْسَبُ اَنْ لَّنْ يَّقْدِرَ عَلَيْهِ اَحَدٌ ۘ\n",
+        "latinText": "a yaḥsabu al lay yaqdira 'alaihi aḥad\n",
+        "translation": "Apakah dia (manusia) itu mengira bahwa tidak ada sesuatu pun yang berkuasa atasnya?\n",
+        "audio": "audio_090005"
+      },
+      {
+        "arabText": "يَقُوْلُ اَهْلَكْتُ مَالًا لُّبَدًاۗ\n",
+        "latinText": "yaqụlu ahlaktu mālal lubadā\n",
+        "translation": "Dia mengatakan, “Aku telah menghabiskan harta yang banyak.”\n",
+        "audio": "audio_090006"
+      },
+      {
+        "arabText": "اَيَحْسَبُ اَنْ لَّمْ يَرَهٗٓ اَحَدٌۗ\n",
+        "latinText": "a yaḥsabu al lam yarahū aḥad\n",
+        "translation": "Apakah dia mengira bahwa tidak ada sesuatu pun yang melihatnya?\n",
+        "audio": "audio_090007"
+      },
+      {
+        "arabText": "اَلَمْ نَجْعَلْ لَّهٗ عَيْنَيْنِۙ\n",
+        "latinText": "a lam naj'al lahụ 'ainaīn\n",
+        "translation": "Bukankah Kami telah menjadikan untuknya sepasang mata,\n",
+        "audio": "audio_090008"
+      },
+      {
+        "arabText": "وَلِسَانًا وَّشَفَتَيْنِۙ\n",
+        "latinText": "wa lisānaw wa syafataīn\n",
+        "translation": "dan lidah dan sepasang bibir?\n",
+        "audio": "audio_090009"
+      },
+      {
+        "arabText": "وَهَدَيْنٰهُ النَّجْدَيْنِۙ\n",
+        "latinText": "wa hadaināhun-najdaīn\n",
+        "translation": "Dan Kami telah menunjukkan kepadanya dua jalan (kebajikan dan kejahatan),\n",
+        "audio": "audio_090010"
+      },
+      {
+        "arabText": "فَلَا اقْتَحَمَ الْعَقَبَةَ ۖ\n",
+        "latinText": "fa laqtaḥamal-'aqabah\n",
+        "translation": "tetapi dia tidak menempuh jalan yang mendaki dan sukar?\n",
+        "audio": "audio_090011"
+      },
+      {
+        "arabText": "وَمَآ اَدْرٰىكَ مَا الْعَقَبَةُ ۗ\n",
+        "latinText": "wa mā adrāka mal-'aqabah\n",
+        "translation": "Dan tahukah kamu apakah jalan yang mendaki dan sukar itu?\n",
+        "audio": "audio_090012"
+      },
+      {
+        "arabText": "فَكُّ رَقَبَةٍۙ\n",
+        "latinText": "fakku raqabah\n",
+        "translation": "(yaitu) melepaskan perbudakan (hamba sahaya),\n",
+        "audio": "audio_090013"
+      },
+      {
+        "arabText": "اَوْ اِطْعَامٌ فِيْ يَوْمٍ ذِيْ مَسْغَبَةٍۙ\n",
+        "latinText": "au iṭ'āmun fī yaumin żī masgabah\n",
+        "translation": "atau memberi makan pada hari terjadi kelaparan,\n",
+        "audio": "audio_090014"
+      },
+      {
+        "arabText": "يَّتِيْمًا ذَا مَقْرَبَةٍۙ\n",
+        "latinText": "yatīman żā maqrabah\n",
+        "translation": "(kepada) anak yatim yang ada hubungan kerabat,\n",
+        "audio": "audio_090015"
+      },
+      {
+        "arabText": "اَوْ مِسْكِيْنًا ذَا مَتْرَبَةٍۗ\n",
+        "latinText": "au miskīnan żā matrabah\n",
+        "translation": "atau orang miskin yang sangat fakir.\n",
+        "audio": "audio_090016"
+      },
+      {
+        "arabText": "ثُمَّ كَانَ مِنَ الَّذِيْنَ اٰمَنُوْا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِۗ\n",
+        "latinText": "ṡumma kāna minallażīna āmanụ wa tawāṣau biṣ-ṣabri wa tawāṣau bil-mar-ḥamah\n",
+        "translation": "Kemudian dia termasuk orang-orang yang beriman dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang.\n",
+        "audio": "audio_090017"
+      },
+      {
+        "arabText": "اُولٰۤىِٕكَ اَصْحٰبُ الْمَيْمَنَةِۗ\n",
+        "latinText": "ulā`ika aṣ-ḥābul-maimanah\n",
+        "translation": "Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan.\n",
+        "audio": "audio_090018"
+      },
+      {
+        "arabText": "وَالَّذِيْنَ كَفَرُوْا بِاٰيٰتِنَا هُمْ اَصْحٰبُ الْمَشْئَمَةِۗ\n",
+        "latinText": "wallażīna kafarụ bi`āyātinā hum aṣ-ḥābul-masy`amah\n",
+        "translation": "Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri.\n",
+        "audio": "audio_090019"
+      },
+      {
+        "arabText": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ\n",
+        "latinText": "'alaihim nārum mu`ṣadah\n",
+        "translation": "Mereka berada dalam neraka yang ditutup rapat.\n",
+        "audio": "audio_090020"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 30,
+    "nama": "Al-Fajr",
+    "nomor": 89,
+    "ayatList": [
+      {
+        "arabText": "وَالْفَجْرِۙ\n",
+        "latinText": "wal-fajr\n",
+        "translation": "Demi fajar,\n",
+        "audio": "audio_089001"
+      },
+      {
+        "arabText": "وَلَيَالٍ عَشْرٍۙ\n",
+        "latinText": "wa layālin 'asyr\n",
+        "translation": "demi malam yang sepuluh,\n",
+        "audio": "audio_089002"
+      },
+      {
+        "arabText": "وَّالشَّفْعِ وَالْوَتْرِۙ\n",
+        "latinText": "wasy-syaf'i wal-watr\n",
+        "translation": "demi yang genap dan yang ganjil,\n",
+        "audio": "audio_089003"
+      },
+      {
+        "arabText": "وَالَّيْلِ اِذَا يَسْرِۚ\n",
+        "latinText": "wal-laili iżā yasr\n",
+        "translation": "demi malam apabila berlalu.\n",
+        "audio": "audio_089004"
+      },
+      {
+        "arabText": "هَلْ فِيْ ذٰلِكَ قَسَمٌ لِّذِيْ حِجْرٍۗ\n",
+        "latinText": "hal fī żālika qasamul liżī ḥijr\n",
+        "translation": "Adakah pada yang demikian itu terdapat sumpah (yang dapat diterima) bagi orang-orang yang berakal?\n",
+        "audio": "audio_089005"
+      },
+      {
+        "arabText": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍۖ\n",
+        "latinText": "a lam tara kaifa fa'ala rabbuka bi'ād\n",
+        "translation": "Tidakkah engkau (Muhammad) memperhatikan bagaimana Tuhanmu berbuat terhadap (kaum) ‘Ad?\n",
+        "audio": "audio_089006"
+      },
+      {
+        "arabText": "اِرَمَ ذَاتِ الْعِمَادِۖ\n",
+        "latinText": "irama żātil-'imād\n",
+        "translation": "(yaitu) penduduk Iram (ibukota kaum ‘Ad) yang mempunyai bangunan-bangunan yang tinggi,\n",
+        "audio": "audio_089007"
+      },
+      {
+        "arabText": "الَّتِيْ لَمْ يُخْلَقْ مِثْلُهَا فِى الْبِلَادِۖ\n",
+        "latinText": "allatī lam yukhlaq miṡluhā fil-bilād\n",
+        "translation": "yang belum pernah dibangun (suatu kota) seperti itu di negeri-negeri lain,\n",
+        "audio": "audio_089008"
+      },
+      {
+        "arabText": "وَثَمُوْدَ الَّذِيْنَ جَابُوا الصَّخْرَ بِالْوَادِۖ\n",
+        "latinText": "wa ṡamụdallażīna jābuṣ-ṣakhra bil-wād\n",
+        "translation": "dan (terhadap) kaum samud yang memotong batu-batu besar di lembah,\n",
+        "audio": "audio_089009"
+      },
+      {
+        "arabText": "وَفِرْعَوْنَ ذِى الْاَوْتَادِۖ\n",
+        "latinText": "wa fir'auna żil-autād\n",
+        "translation": "dan (terhadap) Fir‘aun yang mempunyai pasak-pasak (bangunan yang besar),\n",
+        "audio": "audio_089010"
+      },
+      {
+        "arabText": "الَّذِيْنَ طَغَوْا فِى الْبِلَادِۖ\n",
+        "latinText": "allażīna ṭagau fil-bilād\n",
+        "translation": "yang berbuat sewenang-wenang dalam negeri,\n",
+        "audio": "audio_089011"
+      },
+      {
+        "arabText": "فَاَكْثَرُوْا فِيْهَا الْفَسَادَۖ\n",
+        "latinText": "fa akṡarụ fīhal-fasād\n",
+        "translation": "lalu mereka banyak berbuat kerusakan dalam negeri itu,\n",
+        "audio": "audio_089012"
+      },
+      {
+        "arabText": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍۖ\n",
+        "latinText": "fa ṣabba 'alaihim rabbuka sauṭa 'ażāb\n",
+        "translation": "karena itu Tuhanmu menimpakan cemeti azab kepada mereka,\n",
+        "audio": "audio_089013"
+      },
+      {
+        "arabText": "اِنَّ رَبَّكَ لَبِالْمِرْصَادِۗ\n",
+        "latinText": "inna rabbaka labil-mirṣād\n",
+        "translation": "sungguh, Tuhanmu benar-benar mengawasi.\n",
+        "audio": "audio_089014"
+      },
+      {
+        "arabText": "فَاَمَّا الْاِنْسَانُ اِذَا مَا ابْتَلٰىهُ رَبُّهٗ فَاَكْرَمَهٗ وَنَعَّمَهٗۙ فَيَقُوْلُ رَبِّيْٓ اَكْرَمَنِۗ\n",
+        "latinText": "fa ammal-insānu iżā mabtalāhu rabbuhụ fa akramahụ wa na''amahụ fa yaqụlu rabbī akraman\n",
+        "translation": "Maka adapun manusia, apabila Tuhan mengujinya lalu memuliakannya dan memberinya kesenangan, maka dia berkata, “Tuhanku telah memuliakanku.”\n",
+        "audio": "audio_089015"
+      },
+      {
+        "arabText": "وَاَمَّآ اِذَا مَا ابْتَلٰىهُ فَقَدَرَ عَلَيْهِ رِزْقَهٗ ەۙ فَيَقُوْلُ رَبِّيْٓ اَهَانَنِۚ\n",
+        "latinText": "wa ammā iżā mabtalāhu fa qadara 'alaihi rizqahụ fa yaqụlu rabbī ahānan\n",
+        "translation": "Namun apabila Tuhan mengujinya lalu membatasi rezekinya, maka dia berkata, “Tuhanku telah menghinaku.”\n",
+        "audio": "audio_089016"
+      },
+      {
+        "arabText": "كَلَّا بَلْ لَّا تُكْرِمُوْنَ الْيَتِيْمَۙ\n",
+        "latinText": "kallā bal lā tukrimụnal-yatīm\n",
+        "translation": "Sekali-kali tidak! Bahkan kamu tidak memuliakan anak yatim,\n",
+        "audio": "audio_089017"
+      },
+      {
+        "arabText": "وَلَا تَحٰۤضُّوْنَ عَلٰى طَعَامِ الْمِسْكِيْنِۙ\n",
+        "latinText": "wa lā tahāḍḍụna 'alā ṭa'āmil-miskīn\n",
+        "translation": "dan kamu tidak saling mengajak memberi makan orang miskin,\n",
+        "audio": "audio_089018"
+      },
+      {
+        "arabText": "وَتَأْكُلُوْنَ التُّرَاثَ اَكْلًا لَّمًّاۙ\n",
+        "latinText": "wa ta`kulụnat-turāṡa aklal lammā\n",
+        "translation": "sedangkan kamu memakan harta warisan dengan cara mencampurbaurkan (yang halal dan yang haram),\n",
+        "audio": "audio_089019"
+      },
+      {
+        "arabText": "وَّتُحِبُّوْنَ الْمَالَ حُبًّا جَمًّاۗ\n",
+        "latinText": "wa tuḥibbụnal-māla ḥubban jammā\n",
+        "translation": "dan kamu mencintai harta dengan kecintaan yang berlebihan.\n",
+        "audio": "audio_089020"
+      },
+      {
+        "arabText": "كَلَّآ اِذَا دُكَّتِ الْاَرْضُ دَكًّا دَكًّاۙ\n",
+        "latinText": "kallā iżā dukkatil-arḍu dakkan dakkā\n",
+        "translation": "Sekali-kali tidak! Apabila bumi diguncangkan berturut-turut (berbenturan),\n",
+        "audio": "audio_089021"
+      },
+      {
+        "arabText": "وَّجَآءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّاۚ\n",
+        "latinText": "wa jā`a rabbuka wal-malaku ṣaffan ṣaffā\n",
+        "translation": "dan datanglah Tuhanmu; dan malaikat berbaris-baris,\n",
+        "audio": "audio_089022"
+      },
+      {
+        "arabText": "وَجِايْۤءَ يَوْمَىِٕذٍۢ بِجَهَنَّمَۙ يَوْمَىِٕذٍ يَّتَذَكَّرُ الْاِنْسَانُ وَاَنّٰى لَهُ الذِّكْرٰىۗ\n",
+        "latinText": "wa jī`a yauma`iżim bijahannama yauma`iżiy yatażakkarul-insānu wa annā lahuż-żikrā\n",
+        "translation": "dan pada hari itu diperlihatkan neraka Jahanam; pada hari itu sadarlah manusia, tetapi tidak berguna lagi baginya kesadaran itu.\n",
+        "audio": "audio_089023"
+      },
+      {
+        "arabText": "يَقُوْلُ يٰلَيْتَنِيْ قَدَّمْتُ لِحَيَاتِيْۚ\n",
+        "latinText": "yaqụlu yā laitanī qaddamtu liḥayātī\n",
+        "translation": "Dia berkata, “Alangkah baiknya sekiranya dahulu aku mengerjakan (kebajikan) untuk hidupku ini.”\n",
+        "audio": "audio_089024"
+      },
+      {
+        "arabText": "فَيَوْمَىِٕذٍ لَّا يُعَذِّبُ عَذَابَهٗٓ اَحَدٌ ۙ\n",
+        "latinText": "fa yauma`iżil lā yu'ażżibu 'ażābahū aḥad\n",
+        "translation": "Maka pada hari itu tidak ada seorang pun yang mengazab seperti azab-Nya (yang adil),\n",
+        "audio": "audio_089025"
+      },
+      {
+        "arabText": "وَّلَا يُوْثِقُ وَثَاقَهٗٓ اَحَدٌ ۗ\n",
+        "latinText": "wa lā yụṡiqu waṡāqahū aḥad\n",
+        "translation": "dan tidak ada seorang pun yang mengikat seperti ikatan-Nya.\n",
+        "audio": "audio_089026"
+      },
+      {
+        "arabText": "يٰٓاَيَّتُهَا النَّفْسُ الْمُطْمَىِٕنَّةُۙ\n",
+        "latinText": "yā ayyatuhan-nafsul-muṭma`innah\n",
+        "translation": "Wahai jiwa yang tenang!\n",
+        "audio": "audio_089027"
+      },
+      {
+        "arabText": "ارْجِعِيْٓ اِلٰى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ۚ\n",
+        "latinText": "irji'ī ilā rabbiki rāḍiyatam marḍiyyah\n",
+        "translation": "Kembalilah kepada Tuhanmu dengan hati yang rida dan diridai-Nya.\n",
+        "audio": "audio_089028"
+      },
+      {
+        "arabText": "فَادْخُلِيْ فِيْ عِبٰدِيْۙ\n",
+        "latinText": "fadkhulī fī 'ibādī\n",
+        "translation": "Maka masuklah ke dalam golongan hamba-hamba-Ku,\n",
+        "audio": "audio_089029"
+      },
+      {
+        "arabText": "وَادْخُلِيْ جَنَّتِيْ\u08D6\n",
+        "latinText": "wadkhulī jannatī\n",
+        "translation": "dan masuklah ke dalam surga-Ku.\n",
+        "audio": "audio_089030"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 26,
+    "nama": "Al-Gassiyah",
+    "nomor": 88,
+    "ayatList": [
+      {
+        "arabText": "هَلْ اَتٰىكَ حَدِيْثُ الْغَاشِيَةِۗ\n",
+        "latinText": "hal atāka ḥadīṡul-gāsyiyah\n",
+        "translation": "Sudahkah sampai kepadamu berita tentang (hari Kiamat)?\n",
+        "audio": "audio_088001"
+      },
+      {
+        "arabText": "وُجُوْهٌ يَّوْمَىِٕذٍ خَاشِعَةٌ ۙ\n",
+        "latinText": "wujụhuy yauma`iżin khāsyi'ah\n",
+        "translation": "Pada hari itu banyak wajah yang tertunduk terhina,\n",
+        "audio": "audio_088002"
+      },
+      {
+        "arabText": "عَامِلَةٌ نَّاصِبَةٌ ۙ\n",
+        "latinText": "'āmilatun nāṣibah\n",
+        "translation": "(karena) bekerja keras lagi kepayahan,\n",
+        "audio": "audio_088003"
+      },
+      {
+        "arabText": "تَصْلٰى نَارًا حَامِيَةً ۙ\n",
+        "latinText": "taṣlā nāran ḥāmiyah\n",
+        "translation": "mereka memasuki api yang sangat panas (neraka),\n",
+        "audio": "audio_088004"
+      },
+      {
+        "arabText": "تُسْقٰى مِنْ عَيْنٍ اٰنِيَةٍ ۗ\n",
+        "latinText": "tusqā min 'ainin āniyah\n",
+        "translation": "diberi minum dari sumber mata air yang sangat panas.\n",
+        "audio": "audio_088005"
+      },
+      {
+        "arabText": "لَيْسَ لَهُمْ طَعَامٌ اِلَّا مِنْ ضَرِيْعٍۙ\n",
+        "latinText": "laisa lahum ṭa'āmun illā min ḍarī'\n",
+        "translation": "Tidak ada makanan bagi mereka selain dari pohon yang berduri,\n",
+        "audio": "audio_088006"
+      },
+      {
+        "arabText": "لَّا يُسْمِنُ وَلَا يُغْنِيْ مِنْ جُوْعٍۗ\n",
+        "latinText": "lā yusminu wa lā yugnī min jụ'\n",
+        "translation": "yang tidak menggemukkan dan tidak menghilangkan lapar.\n",
+        "audio": "audio_088007"
+      },
+      {
+        "arabText": "وُجُوْهٌ يَّوْمَىِٕذٍ نَّاعِمَةٌ ۙ\n",
+        "latinText": "wujụhuy yauma`iżin nā'imah\n",
+        "translation": "Pada hari itu banyak (pula) wajah yang berseri-seri,\n",
+        "audio": "audio_088008"
+      },
+      {
+        "arabText": "لِّسَعْيِهَا رَاضِيَةٌ ۙ\n",
+        "latinText": "lisa'yihā rāḍiyah\n",
+        "translation": "merasa senang karena usahanya (sendiri),\n",
+        "audio": "audio_088009"
+      },
+      {
+        "arabText": "فِيْ جَنَّةٍ عَالِيَةٍۙ\n",
+        "latinText": "fī jannatin 'āliyah\n",
+        "translation": "(mereka) dalam surga yang tinggi,\n",
+        "audio": "audio_088010"
+      },
+      {
+        "arabText": "لَّا تَسْمَعُ فِيْهَا لَاغِيَةً ۗ\n",
+        "latinText": "lā tasma'u fīhā lāgiyah\n",
+        "translation": "di sana (kamu) tidak mendengar perkataan yang tidak berguna.\n",
+        "audio": "audio_088011"
+      },
+      {
+        "arabText": "فِيْهَا عَيْنٌ جَارِيَةٌ ۘ\n",
+        "latinText": "fīhā 'ainun jāriyah\n",
+        "translation": "Di sana ada mata air yang mengalir.\n",
+        "audio": "audio_088012"
+      },
+      {
+        "arabText": "فِيْهَا سُرُرٌ مَّرْفُوْعَةٌ ۙ\n",
+        "latinText": "fīhā sururum marfụ'ah\n",
+        "translation": "Di sana ada dipan-dipan yang ditinggikan,\n",
+        "audio": "audio_088013"
+      },
+      {
+        "arabText": "وَّاَكْوَابٌ مَّوْضُوْعَةٌ ۙ\n",
+        "latinText": "wa akwābum mauḍụ'ah\n",
+        "translation": "dan gelas-gelas yang tersedia (di dekatnya),\n",
+        "audio": "audio_088014"
+      },
+      {
+        "arabText": "وَّنَمَارِقُ مَصْفُوْفَةٌ ۙ\n",
+        "latinText": "wa namāriqu maṣfụfah\n",
+        "translation": "dan bantal-bantal sandaran yang tersusun,\n",
+        "audio": "audio_088015"
+      },
+      {
+        "arabText": "وَّزَرَابِيُّ مَبْثُوْثَةٌ ۗ\n",
+        "latinText": "wa zarābiyyu mabṡụṡah\n",
+        "translation": "dan permadani-permadani yang terhampar.\n",
+        "audio": "audio_088016"
+      },
+      {
+        "arabText": "اَفَلَا يَنْظُرُوْنَ اِلَى الْاِبِلِ كَيْفَ خُلِقَتْۗ\n",
+        "latinText": "a fa lā yanẓurụna ilal-ibili kaifa khuliqat\n",
+        "translation": "Maka tidakkah mereka memperhatikan unta, bagaimana diciptakan?\n",
+        "audio": "audio_088017"
+      },
+      {
+        "arabText": "وَاِلَى السَّمَاۤءِ كَيْفَ رُفِعَتْۗ\n",
+        "latinText": "wa ilas-samā`i kaifa rufi'at\n",
+        "translation": "dan langit, bagaimana ditinggikan?\n",
+        "audio": "audio_088018"
+      },
+      {
+        "arabText": "وَاِلَى الْجِبَالِ كَيْفَ نُصِبَتْۗ\n",
+        "latinText": "wa ilal-jibāli kaifa nuṣibat\n",
+        "translation": "Dan gunung-gunung bagaimana ditegakkan?\n",
+        "audio": "audio_088019"
+      },
+      {
+        "arabText": "وَاِلَى الْاَرْضِ كَيْفَ سُطِحَتْۗ\n",
+        "latinText": "wa ilal-arḍi kaifa suṭiḥat\n",
+        "translation": "Dan bumi bagaimana dihamparkan?\n",
+        "audio": "audio_088020"
+      },
+      {
+        "arabText": "فَذَكِّرْۗ اِنَّمَآ اَنْتَ مُذَكِّرٌۙ\n",
+        "latinText": "fa żakkir, innamā anta mużakkir\n",
+        "translation": "Maka berilah peringatan, karena sesungguhnya engkau (Muhammad) hanyalah pemberi peringatan.\n",
+        "audio": "audio_088021"
+      },
+      {
+        "arabText": "لَّسْتَ عَلَيْهِمْ بِمُصَيْطِرٍۙ\n",
+        "latinText": "lasta 'alaihim bimuṣaiṭir\n",
+        "translation": "Engkau bukanlah orang yang berkuasa atas mereka,\n",
+        "audio": "audio_088022"
+      },
+      {
+        "arabText": "اِلَّا مَنْ تَوَلّٰى وَكَفَرَۙ\n",
+        "latinText": "illā man tawallā wa kafar\n",
+        "translation": "kecuali (jika ada) orang yang berpaling dan kafir,\n",
+        "audio": "audio_088023"
+      },
+      {
+        "arabText": "فَيُعَذِّبُهُ اللّٰهُ الْعَذَابَ الْاَكْبَرَۗ\n",
+        "latinText": "fa yu'ażżibuhullāhul-'ażābal-akbar\n",
+        "translation": "maka Allah akan mengazabnya dengan azab yang besar.\n",
+        "audio": "audio_088024"
+      },
+      {
+        "arabText": "اِنَّ اِلَيْنَآ اِيَابَهُمْ\n",
+        "latinText": "inna ilainā iyābahum\n",
+        "translation": "Sungguh, kepada Kamilah mereka kembali,\n",
+        "audio": "audio_088025"
+      },
+      {
+        "arabText": "ثُمَّ اِنَّ عَلَيْنَا حِسَابَهُمْ\n",
+        "latinText": "ṡumma inna 'alainā ḥisābahum\n",
+        "translation": "kemudian sesungguhnya (kewajiban) Kamilah membuat perhitungan atas mereka.\n",
+        "audio": "audio_088026"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 19,
+    "nama": "Al-A\u0027la",
+    "nomor": 87,
+    "ayatList": [
+      {
+        "arabText": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلَىۙ\n",
+        "latinText": "sabbiḥisma rabbikal-a'lā\n",
+        "translation": "Sucikanlah nama Tuhanmu Yang Mahatinggi,\n",
+        "audio": "audio_087001"
+      },
+      {
+        "arabText": "الَّذِيْ خَلَقَ فَسَوّٰىۖ\n",
+        "latinText": "allażī khalaqa fa sawwā\n",
+        "translation": "Yang menciptakan, lalu menyempurnakan (ciptaan-Nya).\n",
+        "audio": "audio_087002"
+      },
+      {
+        "arabText": "وَالَّذِيْ قَدَّرَ فَهَدٰىۖ\n",
+        "latinText": "wallażī qaddara fa hadā\n",
+        "translation": "Yang menentukan kadar (masing-masing) dan memberi petunjuk,\n",
+        "audio": "audio_087003"
+      },
+      {
+        "arabText": "وَالَّذِيْٓ اَخْرَجَ الْمَرْعٰىۖ\n",
+        "latinText": "wallażī akhrajal-mar'ā\n",
+        "translation": "dan Yang menumbuhkan rerumputan,\n",
+        "audio": "audio_087004"
+      },
+      {
+        "arabText": "فَجَعَلَهٗ غُثَاۤءً اَحْوٰىۖ\n",
+        "latinText": "fa ja'alahụ guṡā`an aḥwā\n",
+        "translation": "lalu dijadikan-Nya (rumput-rumput) itu kering kehitam-hitaman.\n",
+        "audio": "audio_087005"
+      },
+      {
+        "arabText": "سَنُقْرِئُكَ فَلَا تَنْسٰىٓ ۖ\n",
+        "latinText": "sanuqri`uka fa lā tansā\n",
+        "translation": "Kami akan membacakan (Al-Qur'an) kepadamu (Muhammad) sehingga engkau tidak akan lupa,\n",
+        "audio": "audio_087006"
+      },
+      {
+        "arabText": "اِلَّا مَا شَاۤءَ اللّٰهُ ۗاِنَّهٗ يَعْلَمُ الْجَهْرَ وَمَا يَخْفٰىۗ\n",
+        "latinText": "illā mā syā`allāh, innahụ ya'lamul-jahra wa mā yakhfā\n",
+        "translation": "kecuali jika Allah menghendaki. Sungguh, Dia mengetahui yang terang dan yang tersembunyi.\n",
+        "audio": "audio_087007"
+      },
+      {
+        "arabText": "وَنُيَسِّرُكَ لِلْيُسْرٰىۖ\n",
+        "latinText": "wa nuyassiruka lil-yusrā\n",
+        "translation": "Dan Kami akan memudahkan bagimu ke jalan kemudahan (mencapai kebahagiaan dunia dan akhirat),\n",
+        "audio": "audio_087008"
+      },
+      {
+        "arabText": "فَذَكِّرْ اِنْ نَّفَعَتِ الذِّكْرٰىۗ\n",
+        "latinText": "fa żakkir in nafa'atiż-żikrā\n",
+        "translation": "oleh sebab itu berikanlah peringatan, karena peringatan itu bermanfaat,\n",
+        "audio": "audio_087009"
+      },
+      {
+        "arabText": "سَيَذَّكَّرُ مَنْ يَّخْشٰىۙ\n",
+        "latinText": "sayażżakkaru may yakhsyā\n",
+        "translation": "orang yang takut (kepada Allah) akan mendapat pelajaran,\n",
+        "audio": "audio_087010"
+      },
+      {
+        "arabText": "وَيَتَجَنَّبُهَا الْاَشْقَىۙ\n",
+        "latinText": "wa yatajannabuhal-asyqā\n",
+        "translation": "dan orang-orang yang celaka (kafir) akan menjauhinya,\n",
+        "audio": "audio_087011"
+      },
+      {
+        "arabText": "الَّذِيْ يَصْلَى النَّارَ الْكُبْرٰىۚ\n",
+        "latinText": "allażī yaṣlan-nāral-kubrā\n",
+        "translation": "(yaitu) orang yang akan memasuki api yang besar (neraka),\n",
+        "audio": "audio_087012"
+      },
+      {
+        "arabText": "ثُمَّ لَا يَمُوْتُ فِيْهَا وَلَا يَحْيٰىۗ\n",
+        "latinText": "ṡumma lā yamụtu fīhā wa lā yaḥyā\n",
+        "translation": "selanjutnya dia di sana tidak mati dan tidak (pula) hidup.\n",
+        "audio": "audio_087013"
+      },
+      {
+        "arabText": "قَدْ اَفْلَحَ مَنْ تَزَكّٰىۙ\n",
+        "latinText": "qad aflaḥa man tazakkā\n",
+        "translation": "Sungguh beruntung orang yang menyucikan diri (dengan beriman),\n",
+        "audio": "audio_087014"
+      },
+      {
+        "arabText": "وَذَكَرَ اسْمَ رَبِّهٖ فَصَلّٰىۗ\n",
+        "latinText": "wa żakarasma rabbihī fa ṣallā\n",
+        "translation": "dan mengingat nama Tuhannya, lalu dia salat.\n",
+        "audio": "audio_087015"
+      },
+      {
+        "arabText": "بَلْ تُؤْثِرُوْنَ الْحَيٰوةَ الدُّنْيَاۖ\n",
+        "latinText": "bal tu`ṡirụnal-ḥayātad-dun-yā\n",
+        "translation": "Sedangkan kamu (orang-orang kafir) memilih kehidupan dunia,\n",
+        "audio": "audio_087016"
+      },
+      {
+        "arabText": "وَالْاٰخِرَةُ خَيْرٌ وَّاَبْقٰىۗ\n",
+        "latinText": "wal-ākhiratu khairuw wa abqā\n",
+        "translation": "padahal kehidupan akhirat itu lebih baik dan lebih kekal.\n",
+        "audio": "audio_087017"
+      },
+      {
+        "arabText": "اِنَّ هٰذَا لَفِى الصُّحُفِ الْاُوْلٰىۙ\n",
+        "latinText": "inna hāżā lafiṣ-ṣuḥufil-ụlā\n",
+        "translation": "Sesungguhnya ini terdapat dalam kitab-kitab yang dahulu,\n",
+        "audio": "audio_087018"
+      },
+      {
+        "arabText": "صُحُفِ اِبْرٰهِيْمَ وَمُوْسٰى\n",
+        "latinText": "ṣuḥufi ibrāhīma wa mụsā\n",
+        "translation": "(yaitu) kitab-kitab Ibrahim dan Musa.\n",
+        "audio": "audio_087019"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 17,
+    "nama": "At-Tariq",
+    "nomor": 86,
+    "ayatList": [
+      {
+        "arabText": "وَالسَّمَاۤءِ وَالطَّارِقِۙ\n",
+        "latinText": "was-samā`i waṭ-ṭāriq\n",
+        "translation": "Demi langit dan yang datang pada malam hari.\n",
+        "audio": "audio_086001"
+      },
+      {
+        "arabText": "وَمَآ اَدْرٰىكَ مَا الطَّارِقُۙ\n",
+        "latinText": "wa mā adrāka maṭ-ṭāriq\n",
+        "translation": "Dan tahukah kamu apakah yang datang pada malam hari itu?\n",
+        "audio": "audio_086002"
+      },
+      {
+        "arabText": "النَّجْمُ الثَّاقِبُۙ\n",
+        "latinText": "an-najmuṡ-ṡāqib\n",
+        "translation": "(yaitu) bintang yang bersinar tajam,\n",
+        "audio": "audio_086003"
+      },
+      {
+        "arabText": "اِنْ كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌۗ\n",
+        "latinText": "ing kullu nafsil lammā 'alaihā ḥāfiẓ\n",
+        "translation": "setiap orang pasti ada penjaganya.\n",
+        "audio": "audio_086004"
+      },
+      {
+        "arabText": "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَ\n",
+        "latinText": "falyanẓuril-insānu mimma khuliq\n",
+        "translation": "Maka hendaklah manusia memperhatikan dari apa dia diciptakan.\n",
+        "audio": "audio_086005"
+      },
+      {
+        "arabText": "خُلِقَ مِنْ مَّاۤءٍ دَافِقٍۙ\n",
+        "latinText": "khuliqa mim mā`in dāfiq\n",
+        "translation": "Dia diciptakan dari air (mani) yang terpancar,\n",
+        "audio": "audio_086006"
+      },
+      {
+        "arabText": "يَّخْرُجُ مِنْۢ بَيْنِ الصُّلْبِ وَالتَّرَاۤىِٕبِۗ\n",
+        "latinText": "yakhruju mim bainiṣ-ṣulbi wat-tarā`ib\n",
+        "translation": "yang keluar dari antara tulang punggung (sulbi) dan tulang dada.\n",
+        "audio": "audio_086007"
+      },
+      {
+        "arabText": "اِنَّهٗ عَلٰى رَجْعِهٖ لَقَادِرٌۗ\n",
+        "latinText": "innahụ 'alā raj'ihī laqādir\n",
+        "translation": "Sungguh, Allah benar-benar kuasa untuk mengembalikannya (hidup setelah mati).\n",
+        "audio": "audio_086008"
+      },
+      {
+        "arabText": "يَوْمَ تُبْلَى السَّرَاۤىِٕرُۙ\n",
+        "latinText": "yauma tublas-sarā`ir\n",
+        "translation": "Pada hari ditampakkan segala rahasia,\n",
+        "audio": "audio_086009"
+      },
+      {
+        "arabText": "فَمَا لَهٗ مِنْ قُوَّةٍ وَّلَا نَاصِرٍۗ\n",
+        "latinText": "fa mā lahụ ming quwwatiw wa lā nāṣir\n",
+        "translation": "maka manusia tidak lagi mempunyai suatu kekuatan dan tidak (pula) ada penolong.\n",
+        "audio": "audio_086010"
+      },
+      {
+        "arabText": "وَالسَّمَاۤءِ ذَاتِ الرَّجْعِۙ\n",
+        "latinText": "was-samā`i żātir-raj'\n",
+        "translation": "Demi langit yang mengandung hujan,\n",
+        "audio": "audio_086011"
+      },
+      {
+        "arabText": "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ\n",
+        "latinText": "wal-arḍi żātiṣ-ṣad'\n",
+        "translation": "dan bumi yang mempunyai tumbuh-tumbuhan,\n",
+        "audio": "audio_086012"
+      },
+      {
+        "arabText": "اِنَّهٗ لَقَوْلٌ فَصْلٌۙ\n",
+        "latinText": "innahụ laqaulun faṣl\n",
+        "translation": "sungguh, (Al-Qur'an) itu benar-benar firman pemisah (antara yang hak dan yang batil),\n",
+        "audio": "audio_086013"
+      },
+      {
+        "arabText": "وَّمَا هُوَ بِالْهَزْلِۗ\n",
+        "latinText": "wa mā huwa bil-hazl\n",
+        "translation": "dan (Al-Qur'an) itu bukanlah sendagurauan.\n",
+        "audio": "audio_086014"
+      },
+      {
+        "arabText": "اِنَّهُمْ يَكِيْدُوْنَ كَيْدًاۙ\n",
+        "latinText": "innahum yakīdụna kaidā\n",
+        "translation": "Sungguh, mereka (orang kafir) merencanakan tipu daya yang jahat.\n",
+        "audio": "audio_086015"
+      },
+      {
+        "arabText": "وَّاَكِيْدُ كَيْدًاۖ\n",
+        "latinText": "wa akīdu kaidā\n",
+        "translation": "Dan Aku pun membuat rencana (tipu daya) yang jitu.\n",
+        "audio": "audio_086016"
+      },
+      {
+        "arabText": "فَمَهِّلِ الْكٰفِرِيْنَ اَمْهِلْهُمْ رُوَيْدًا\n",
+        "latinText": "fa mahhilil-kāfirīna am-hil-hum ruwaidā\n",
+        "translation": "Karena itu berilah penangguhan kepada orang-orang kafir itu. Berilah mereka itu kesempatan untuk sementara waktu.\n",
+        "audio": "audio_086017"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 22,
+    "nama": "Al-Buruj",
+    "nomor": 85,
+    "ayatList": [
+      {
+        "arabText": "وَالسَّمَاۤءِ ذَاتِ الْبُرُوْجِۙ\n",
+        "latinText": "was-samā`i żātil-burụj\n",
+        "translation": "Demi langit yang mempunyai gugusan bintang,\n",
+        "audio": "audio_085001"
+      },
+      {
+        "arabText": "وَالْيَوْمِ الْمَوْعُوْدِۙ\n",
+        "latinText": "wal-yaumil-mau'ụd\n",
+        "translation": "dan demi hari yang dijanjikan.\n",
+        "audio": "audio_085002"
+      },
+      {
+        "arabText": "وَشَاهِدٍ وَّمَشْهُوْدٍۗ\n",
+        "latinText": "wa syāhidiw wa masy-hụd\n",
+        "translation": "Demi yang menyaksikan dan yang disaksikan.\n",
+        "audio": "audio_085003"
+      },
+      {
+        "arabText": "قُتِلَ اَصْحٰبُ الْاُخْدُوْدِۙ\n",
+        "latinText": "qutila aṣ-ḥābul-ukhdụd\n",
+        "translation": "Binasalah orang-orang yang membuat parit (yaitu para pembesar Najran di Yaman),\n",
+        "audio": "audio_085004"
+      },
+      {
+        "arabText": "النَّارِ ذَاتِ الْوَقُوْدِۙ\n",
+        "latinText": "an-nāri żātil-waqụd\n",
+        "translation": "yang berapi (yang mempunyai) kayu bakar,\n",
+        "audio": "audio_085005"
+      },
+      {
+        "arabText": "اِذْ هُمْ عَلَيْهَا قُعُوْدٌۙ\n",
+        "latinText": "iż hum 'alaihā qu'ụd\n",
+        "translation": "ketika mereka duduk di sekitarnya,\n",
+        "audio": "audio_085006"
+      },
+      {
+        "arabText": "وَّهُمْ عَلٰى مَا يَفْعَلُوْنَ بِالْمُؤْمِنِيْنَ شُهُوْدٌ ۗ\n",
+        "latinText": "wa hum 'alā mā yaf'alụna bil-mu`minīna syuhụd\n",
+        "translation": "sedang mereka menyaksikan apa yang mereka perbuat terhadap orang-orang mukmin.\n",
+        "audio": "audio_085007"
+      },
+      {
+        "arabText": "وَمَا نَقَمُوْا مِنْهُمْ اِلَّآ اَنْ يُّؤْمِنُوْا بِاللّٰهِ الْعَزِيْزِ الْحَمِيْدِۙ\n",
+        "latinText": "wa mā naqamụ min-hum illā ay yu`minụ billāhil-'azīzil-ḥamīd\n",
+        "translation": "Dan mereka menyiksa orang-orang mukmin itu hanya karena (orang-orang mukmin itu) beriman kepada Allah Yang Mahaperkasa, Maha Terpuji,\n",
+        "audio": "audio_085008"
+      },
+      {
+        "arabText": "الَّذِيْ لَهٗ مُلْكُ السَّمٰوٰتِ وَالْاَرْضِ ۗوَاللّٰهُ عَلٰى كُلِّ شَيْءٍ شَهِيْدٌ ۗ\n",
+        "latinText": "allażī lahụ mulkus-samāwāti wal-arḍ, wallāhu 'alā kulli syai`in syahīd\n",
+        "translation": "yang memiliki kerajaan langit dan bumi. Dan Allah Maha Menyaksikan segala sesuatu.\n",
+        "audio": "audio_085009"
+      },
+      {
+        "arabText": "اِنَّ الَّذِيْنَ فَتَنُوا الْمُؤْمِنِيْنَ وَالْمُؤْمِنٰتِ ثُمَّ لَمْ يَتُوْبُوْا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيْقِۗ\n",
+        "latinText": "innallażīna fatanul-mu`minīna wal-mu`mināti ṡumma lam yatụbụ fa lahum 'ażābu jahannama wa lahum 'ażābul-ḥarīq\n",
+        "translation": "Sungguh, orang-orang yang mendatangkan cobaan (bencana, membunuh, menyiksa) kepada orang-orang mukmin laki-laki dan perempuan lalu mereka tidak bertobat, maka mereka akan mendapat azab Jahanam dan mereka akan mendapat azab (neraka) yang membakar.\n",
+        "audio": "audio_085010"
+      },
+      {
+        "arabText": "اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ لَهُمْ جَنّٰتٌ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ ەۗ ذٰلِكَ الْفَوْزُ الْكَبِيْرُۗ\n",
+        "latinText": "innallażīna āmanụ wa 'amiluṣ-ṣāliḥāti lahum jannātun tajrī min taḥtihal-an-hār, żālikal-fauzul-kabīr\n",
+        "translation": "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat surga yang mengalir di bawahnya sungai-sungai, itulah kemenangan yang agung.\n",
+        "audio": "audio_085011"
+      },
+      {
+        "arabText": "اِنَّ بَطْشَ رَبِّكَ لَشَدِيْدٌ ۗ\n",
+        "latinText": "inna baṭsya rabbika lasyadīd\n",
+        "translation": "Sungguh, azab Tuhanmu sangat keras.\n",
+        "audio": "audio_085012"
+      },
+      {
+        "arabText": "اِنَّهٗ هُوَ يُبْدِئُ وَيُعِيْدُۚ\n",
+        "latinText": "innahụ huwa yubdi`u wa yu'īd\n",
+        "translation": "Sungguh, Dialah yang memulai pen-ciptaan (makhluk) dan yang menghidupkannya (kembali).\n",
+        "audio": "audio_085013"
+      },
+      {
+        "arabText": "وَهُوَ الْغَفُوْرُ الْوَدُوْدُۙ\n",
+        "latinText": "wa huwal-gafụrul-wadụd\n",
+        "translation": "Dan Dialah Yang Maha Pengampun, Maha Pengasih,\n",
+        "audio": "audio_085014"
+      },
+      {
+        "arabText": "ذُو الْعَرْشِ الْمَجِيْدُۙ\n",
+        "latinText": "żul-'arsyil-majīd\n",
+        "translation": "yang memiliki ‘Arsy, lagi Mahamulia,\n",
+        "audio": "audio_085015"
+      },
+      {
+        "arabText": "فَعَّالٌ لِّمَا يُرِيْدُۗ\n",
+        "latinText": "fa''ālul limā yurīd\n",
+        "translation": "Mahakuasa berbuat apa yang Dia kehendaki.\n",
+        "audio": "audio_085016"
+      },
+      {
+        "arabText": "هَلْ اَتٰىكَ حَدِيْثُ الْجُنُوْدِۙ\n",
+        "latinText": "hal atāka ḥadīṡul-junụd\n",
+        "translation": "Sudahkah sampai kepadamu berita tentang bala tentara (penentang),\n",
+        "audio": "audio_085017"
+      },
+      {
+        "arabText": "فِرْعَوْنَ وَثَمُوْدَۗ\n",
+        "latinText": "fir'auna wa ṡamụd\n",
+        "translation": "(yaitu) Fir‘aun dan Samud?\n",
+        "audio": "audio_085018"
+      },
+      {
+        "arabText": "بَلِ الَّذِيْنَ كَفَرُوْا فِيْ تَكْذِيْبٍۙ\n",
+        "latinText": "balillażīna kafarụ fī takżīb\n",
+        "translation": "Memang orang-orang kafir (selalu) mendustakan,\n",
+        "audio": "audio_085019"
+      },
+      {
+        "arabText": "وَّاللّٰهُ مِنْ وَّرَاۤىِٕهِمْ مُّحِيْطٌۚ\n",
+        "latinText": "wallāhu miw warā`ihim muḥīṭ\n",
+        "translation": "padahal Allah mengepung dari belakang mereka (sehingga tidak dapat lolos).\n",
+        "audio": "audio_085020"
+      },
+      {
+        "arabText": "بَلْ هُوَ قُرْاٰنٌ مَّجِيْدٌۙ\n",
+        "latinText": "bal huwa qur`ānum majīd\n",
+        "translation": "Bahkan (yang didustakan itu) ialah Al-Qur'an yang mulia,\n",
+        "audio": "audio_085021"
+      },
+      {
+        "arabText": "فِيْ لَوْحٍ مَّحْفُوْظٍ\n",
+        "latinText": "fī lauḥim maḥfụẓ\n",
+        "translation": "yang (tersimpan) dalam (tempat) yang terjaga (Lauh Mahfuzh).\n",
+        "audio": "audio_085022"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 25,
+    "nama": "Al-Insyiqaq",
+    "nomor": 84,
+    "ayatList": [
+      {
+        "arabText": "اِذَا السَّمَاۤءُ انْشَقَّتْۙ\n",
+        "latinText": "iżas-samā`unsyaqqat\n",
+        "translation": "Apabila langit terbelah,\n",
+        "audio": "audio_084001"
+      },
+      {
+        "arabText": "وَاَذِنَتْ لِرَبِّهَا وَحُقَّتْۙ\n",
+        "latinText": "wa ażinat lirabbihā wa ḥuqqat\n",
+        "translation": "dan patuh kepada Tuhannya, dan sudah semestinya patuh,\n",
+        "audio": "audio_084002"
+      },
+      {
+        "arabText": "وَاِذَا الْاَرْضُ مُدَّتْۙ\n",
+        "latinText": "wa iżal-arḍu muddat\n",
+        "translation": "dan apabila bumi diratakan,\n",
+        "audio": "audio_084003"
+      },
+      {
+        "arabText": "وَاَلْقَتْ مَا فِيْهَا وَتَخَلَّتْۙ\n",
+        "latinText": "wa alqat mā fīhā wa takhallat\n",
+        "translation": "dan memuntahkan apa yang ada di dalamnya dan menjadi kosong,\n",
+        "audio": "audio_084004"
+      },
+      {
+        "arabText": "وَاَذِنَتْ لِرَبِّهَا وَحُقَّتْۗ\n",
+        "latinText": "wa ażinat lirabbihā wa ḥuqqat\n",
+        "translation": "dan patuh kepada Tuhannya, dan sudah semestinya patuh.\n",
+        "audio": "audio_084005"
+      },
+      {
+        "arabText": "يٰٓاَيُّهَا الْاِنْسَانُ اِنَّكَ كَادِحٌ اِلٰى رَبِّكَ كَدْحًا فَمُلٰقِيْهِۚ\n",
+        "latinText": "yā ayyuhal-insānu innaka kādiḥun ilā rabbika kad-ḥan fa mulāqīh\n",
+        "translation": "Wahai manusia! Sesungguhnya kamu telah bekerja keras menuju Tuhanmu, maka kamu akan menemui-Nya.\n",
+        "audio": "audio_084006"
+      },
+      {
+        "arabText": "فَاَمَّا مَنْ اُوْتِيَ كِتٰبَهٗ بِيَمِيْنِهٖۙ\n",
+        "latinText": "fa ammā man ụtiya kitābahụ biyamīnih\n",
+        "translation": "Maka adapun orang yang catatannya diberikan dari sebelah kanannya,\n",
+        "audio": "audio_084007"
+      },
+      {
+        "arabText": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَّسِيْرًاۙ\n",
+        "latinText": "fa saufa yuḥāsabu ḥisābay yasīrā\n",
+        "translation": "maka dia akan diperiksa dengan pemeriksaan yang mudah,\n",
+        "audio": "audio_084008"
+      },
+      {
+        "arabText": "وَّيَنْقَلِبُ اِلٰٓى اَهْلِهٖ مَسْرُوْرًاۗ\n",
+        "latinText": "wa yangqalibu ilā ahlihī masrụrā\n",
+        "translation": "dan dia akan kembali kepada keluarganya (yang sama-sama beriman) dengan gembira.\n",
+        "audio": "audio_084009"
+      },
+      {
+        "arabText": "وَاَمَّا مَنْ اُوْتِيَ كِتٰبَهٗ وَرَاۤءَ ظَهْرِهٖۙ\n",
+        "latinText": "wa ammā man ụtiya kitābahụ warā`a ẓahrih\n",
+        "translation": "Dan adapun orang yang catatannya diberikan dari sebelah belakang,\n",
+        "audio": "audio_084010"
+      },
+      {
+        "arabText": "فَسَوْفَ يَدْعُوْ ثُبُوْرًاۙ\n",
+        "latinText": "fa saufa yad'ụ ṡubụrā\n",
+        "translation": "maka dia akan berteriak, “Celakalah aku!”\n",
+        "audio": "audio_084011"
+      },
+      {
+        "arabText": "وَّيَصْلٰى سَعِيْرًاۗ\n",
+        "latinText": "wa yaṣlā sa'īrā\n",
+        "translation": "Dan dia akan masuk ke dalam api yang menyala-nyala (neraka).\n",
+        "audio": "audio_084012"
+      },
+      {
+        "arabText": "اِنَّهٗ كَانَ فِيْٓ اَهْلِهٖ مَسْرُوْرًاۗ\n",
+        "latinText": "innahụ kāna fī ahlihī masrụrā\n",
+        "translation": "Sungguh, dia dahulu (di dunia) bergembira di kalangan keluarganya (yang sama-sama kafir).\n",
+        "audio": "audio_084013"
+      },
+      {
+        "arabText": "اِنَّهٗ ظَنَّ اَنْ لَّنْ يَّحُوْرَ ۛ\n",
+        "latinText": "innahụ ẓanna al lay yaḥụr\n",
+        "translation": "Sesungguhnya dia mengira bahwa dia tidak akan kembali (kepada Tuhannya).\n",
+        "audio": "audio_084014"
+      },
+      {
+        "arabText": "بَلٰىۛ اِنَّ رَبَّهٗ كَانَ بِهٖ بَصِيْرًاۗ\n",
+        "latinText": "balā inna rabbahụ kāna bihī baṣīrā\n",
+        "translation": "Tidak demikian, sesungguhnya Tuhannya selalu melihatnya.\n",
+        "audio": "audio_084015"
+      },
+      {
+        "arabText": "فَلَآ اُقْسِمُ بِالشَّفَقِۙ\n",
+        "latinText": "fa lā uqsimu bisy-syafaq\n",
+        "translation": "Maka Aku bersumpah demi cahaya merah pada waktu senja,\n",
+        "audio": "audio_084016"
+      },
+      {
+        "arabText": "وَالَّيْلِ وَمَا وَسَقَۙ\n",
+        "latinText": "wal-laili wa mā wasaq\n",
+        "translation": "demi malam dan apa yang diselubunginya,\n",
+        "audio": "audio_084017"
+      },
+      {
+        "arabText": "وَالْقَمَرِ اِذَا اتَّسَقَۙ\n",
+        "latinText": "wal-qamari iżattasaq\n",
+        "translation": "demi bulan apabila jadi purnama,\n",
+        "audio": "audio_084018"
+      },
+      {
+        "arabText": "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍۗ\n",
+        "latinText": "latarkabunna ṭabaqan 'an ṭabaq\n",
+        "translation": "sungguh, akan kamu jalani tingkat demi tingkat (dalam kehidupan).\n",
+        "audio": "audio_084019"
+      },
+      {
+        "arabText": "فَمَا لَهُمْ لَا يُؤْمِنُوْنَۙ\n",
+        "latinText": "fa mā lahum lā yu`minụn\n",
+        "translation": "Maka mengapa mereka tidak mau beriman?\n",
+        "audio": "audio_084020"
+      },
+      {
+        "arabText": "وَاِذَا قُرِئَ عَلَيْهِمُ الْقُرْاٰنُ لَا يَسْجُدُوْنَ ۗ ۩\n",
+        "latinText": "wa iżā quri`a 'alaihimul-qur`ānu lā yasjudụn\n",
+        "translation": "Dan apabila Al-Qur'an dibacakan kepada mereka, mereka tidak (mau) bersujud,\n",
+        "audio": "audio_084021"
+      },
+      {
+        "arabText": "بَلِ الَّذِيْنَ كَفَرُوْا يُكَذِّبُوْنَۖ\n",
+        "latinText": "balillażīna kafarụ yukażżibụn\n",
+        "translation": "bahkan orang-orang kafir itu mendustakan(nya).\n",
+        "audio": "audio_084022"
+      },
+      {
+        "arabText": "وَاللّٰهُ اَعْلَمُ بِمَا يُوْعُوْنَۖ\n",
+        "latinText": "wallāhu a'lamu bimā yụ'ụn\n",
+        "translation": "Dan Allah lebih mengetahui apa yang mereka sembunyikan (dalam hati mereka).\n",
+        "audio": "audio_084023"
+      },
+      {
+        "arabText": "فَبَشِّرْهُمْ بِعَذَابٍ اَلِيْمٍۙ\n",
+        "latinText": "fa basysyir-hum bi'ażābin alīm\n",
+        "translation": "Maka sampaikanlah kepada mereka (ancaman) azab yang pedih,\n",
+        "audio": "audio_084024"
+      },
+      {
+        "arabText": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ لَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍ\n",
+        "latinText": "illallażīna āmanụ wa 'amiluṣ-ṣāliḥāti lahum ajrun gairu mamnụn\n",
+        "translation": "kecuali orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat pahala yang tidak putus-putusnya.\n",
+        "audio": "audio_084025"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 36,
+    "nama": "Al-Mutaffifin",
+    "nomor": 83,
+    "ayatList": [
+      {
+        "arabText": "وَيْلٌ لِّلْمُطَفِّفِيْنَۙ\n",
+        "latinText": "wailul lil-muṭaffifīn\n",
+        "translation": "Celakalah bagi orang-orang yang curang (dalam menakar dan menimbang)!\n",
+        "audio": "audio_083001"
+      },
+      {
+        "arabText": "الَّذِيْنَ اِذَا اكْتَالُوْا عَلَى النَّاسِ يَسْتَوْفُوْنَۖ\n",
+        "latinText": "allażīna iżaktālụ 'alan-nāsi yastaufụn\n",
+        "translation": "(Yaitu) orang-orang yang apabila menerima takaran dari orang lain mereka minta dicukupkan,\n",
+        "audio": "audio_083002"
+      },
+      {
+        "arabText": "وَاِذَا كَالُوْهُمْ اَوْ وَّزَنُوْهُمْ يُخْسِرُوْنَۗ\n",
+        "latinText": "wa iżā kālụhum aw wazanụhum yukhsirụn\n",
+        "translation": "dan apabila mereka menakar atau menimbang (untuk orang lain), mereka mengurangi.\n",
+        "audio": "audio_083003"
+      },
+      {
+        "arabText": "اَلَا يَظُنُّ اُولٰۤىِٕكَ اَنَّهُمْ مَّبْعُوْثُوْنَۙ\n",
+        "latinText": "alā yaẓunnu ulā`ika annahum mab'ụṡụn\n",
+        "translation": "Tidakkah mereka itu mengira, bahwa sesungguhnya mereka akan dibangkitkan,\n",
+        "audio": "audio_083004"
+      },
+      {
+        "arabText": "لِيَوْمٍ عَظِيْمٍۙ\n",
+        "latinText": "liyaumin 'aẓīm\n",
+        "translation": "pada suatu hari yang besar,\n",
+        "audio": "audio_083005"
+      },
+      {
+        "arabText": "يَّوْمَ يَقُوْمُ النَّاسُ لِرَبِّ الْعٰلَمِيْنَۗ\n",
+        "latinText": "yauma yaqụmun-nāsu lirabbil-'ālamīn\n",
+        "translation": "(yaitu) pada hari (ketika) semua orang bangkit menghadap Tuhan seluruh alam.\n",
+        "audio": "audio_083006"
+      },
+      {
+        "arabText": "كَلَّآ اِنَّ كِتٰبَ الْفُجَّارِ لَفِيْ سِجِّيْنٍۗ\n",
+        "latinText": "kallā inna kitābal-fujjāri lafī sijjīn\n",
+        "translation": "Sekali-kali jangan begitu! Sesungguhnya catatan orang yang durhaka benar-benar tersimpan dalam Sijjin.\n",
+        "audio": "audio_083007"
+      },
+      {
+        "arabText": "وَمَآ اَدْرٰىكَ مَا سِجِّيْنٌۗ\n",
+        "latinText": "wa mā adrāka mā sijjīn\n",
+        "translation": "Dan tahukah engkau apakah Sijjin itu?\n",
+        "audio": "audio_083008"
+      },
+      {
+        "arabText": "كِتٰبٌ مَّرْقُوْمٌۗ\n",
+        "latinText": "kitābum marqụm\n",
+        "translation": "(Yaitu) Kitab yang berisi catatan (amal).\n",
+        "audio": "audio_083009"
+      },
+      {
+        "arabText": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَۙ\n",
+        "latinText": "wailuy yauma`iżil lil-mukażżibīn\n",
+        "translation": "Celakalah pada hari itu, bagi orang-orang yang mendustakan!\n",
+        "audio": "audio_083010"
+      },
+      {
+        "arabText": "الَّذِيْنَ يُكَذِّبُوْنَ بِيَوْمِ الدِّيْنِۗ\n",
+        "latinText": "allażīna yukażżibụna biyaumid-dīn\n",
+        "translation": "(yaitu) orang-orang yang mendustakannya (hari pembalasan).\n",
+        "audio": "audio_083011"
+      },
+      {
+        "arabText": "وَمَا يُكَذِّبُ بِهٖٓ اِلَّا كُلُّ مُعْتَدٍ اَثِيْمٍۙ\n",
+        "latinText": "wa mā yukażżibu bihī illā kullu mu'tadin aṡīm\n",
+        "translation": "Dan tidak ada yang mendustakannya (hari pembalasan) kecuali setiap orang yang melampaui batas dan berdosa,\n",
+        "audio": "audio_083012"
+      },
+      {
+        "arabText": "اِذَا تُتْلٰى عَلَيْهِ اٰيٰتُنَا قَالَ اَسَاطِيْرُ الْاَوَّلِيْنَۗ\n",
+        "latinText": "iżā tutlā 'alaihi āyātunā qāla asāṭīrul-awwalīn\n",
+        "translation": "yang apabila dibacakan kepadanya ayat-ayat Kami, dia berkata, “Itu adalah dongeng orang-orang dahulu.”\n",
+        "audio": "audio_083013"
+      },
+      {
+        "arabText": "كَلَّا بَلْ ۜرَانَ عَلٰى قُلُوْبِهِمْ مَّا كَانُوْا يَكْسِبُوْنَ\n",
+        "latinText": "kallā bal rāna 'alā qulụbihim mā kānụ yaksibụn\n",
+        "translation": "Sekali-kali tidak! Bahkan apa yang mereka kerjakan itu telah menutupi hati mereka.\n",
+        "audio": "audio_083014"
+      },
+      {
+        "arabText": "كَلَّآ اِنَّهُمْ عَنْ رَّبِّهِمْ يَوْمَىِٕذٍ لَّمَحْجُوْبُوْنَۗ\n",
+        "latinText": "kallā innahum 'ar rabbihim yauma`iżil lamaḥjụbụn\n",
+        "translation": "Sekali-kali tidak! Sesungguhnya mereka pada hari itu benar-benar terhalang dari (melihat) Tuhannya.\n",
+        "audio": "audio_083015"
+      },
+      {
+        "arabText": "ثُمَّ اِنَّهُمْ لَصَالُوا الْجَحِيْمِۗ\n",
+        "latinText": "ṡumma innahum laṣālul-jaḥīm\n",
+        "translation": "Kemudian, sesungguhnya mereka benar-benar masuk neraka.\n",
+        "audio": "audio_083016"
+      },
+      {
+        "arabText": "ثُمَّ يُقَالُ هٰذَا الَّذِيْ كُنْتُمْ بِهٖ تُكَذِّبُوْنَۗ\n",
+        "latinText": "ṡumma yuqālu hāżallażī kuntum bihī tukażżibụn\n",
+        "translation": "Kemudian, dikatakan (kepada mereka), “Inilah (azab) yang dahulu kamu dustakan.”\n",
+        "audio": "audio_083017"
+      },
+      {
+        "arabText": "كَلَّآ اِنَّ كِتٰبَ الْاَبْرَارِ لَفِيْ عِلِّيِّيْنَۗ\n",
+        "latinText": "kallā inna kitābal-abrāri lafī 'illiyyīn\n",
+        "translation": "Sekali-kali tidak! Sesungguhnya catatan orang-orang yang berbakti benar-benar tersimpan dalam ’Illiyyin.\n",
+        "audio": "audio_083018"
+      },
+      {
+        "arabText": "وَمَآ اَدْرٰىكَ مَا عِلِّيُّوْنَۗ\n",
+        "latinText": "wa mā adrāka mā 'illiyyụn\n",
+        "translation": "Dan tahukah engkau apakah ’Illiyyin itu?\n",
+        "audio": "audio_083019"
+      },
+      {
+        "arabText": "كِتٰبٌ مَّرْقُوْمٌۙ\n",
+        "latinText": "kitābum marqụm\n",
+        "translation": "(Yaitu) Kitab yang berisi catatan (amal),\n",
+        "audio": "audio_083020"
+      },
+      {
+        "arabText": "يَّشْهَدُهُ الْمُقَرَّبُوْنَۗ\n",
+        "latinText": "yasy-haduhul-muqarrabụn\n",
+        "translation": "yang disaksikan oleh (malaikat-malaikat) yang didekatkan (kepada Allah).\n",
+        "audio": "audio_083021"
+      },
+      {
+        "arabText": "اِنَّ الْاَبْرَارَ لَفِيْ نَعِيْمٍۙ\n",
+        "latinText": "innal-abrāra lafī na'īm\n",
+        "translation": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan,\n",
+        "audio": "audio_083022"
+      },
+      {
+        "arabText": "عَلَى الْاَرَاۤىِٕكِ يَنْظُرُوْنَۙ\n",
+        "latinText": "'alal-arā`iki yanẓurụn\n",
+        "translation": "mereka (duduk) di atas dipan-dipan melepas pandangan.\n",
+        "audio": "audio_083023"
+      },
+      {
+        "arabText": "تَعْرِفُ فِيْ وُجُوْهِهِمْ نَضْرَةَ النَّعِيْمِۚ\n",
+        "latinText": "ta'rifu fī wujụhihim naḍratan na'īm\n",
+        "translation": "Kamu dapat mengetahui dari wajah mereka kesenangan hidup yang penuh kenikmatan.\n",
+        "audio": "audio_083024"
+      },
+      {
+        "arabText": "يُسْقَوْنَ مِنْ رَّحِيْقٍ مَّخْتُوْمٍۙ\n",
+        "latinText": "yusqauna mir raḥīqim makhtụm\n",
+        "translation": "Mereka diberi minum dari khamar murni (tidak memabukkan) yang (tempatnya) masih dilak (disegel),\n",
+        "audio": "audio_083025"
+      },
+      {
+        "arabText": "خِتٰمُهٗ مِسْكٌ ۗوَفِيْ ذٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُوْنَۗ\n",
+        "latinText": "khitāmuhụ misk, wa fī żālika falyatanāfasil-mutanāfisụn\n",
+        "translation": "laknya dari kasturi. Dan untuk yang demikian itu hendaknya orang berlomba-lomba.\n",
+        "audio": "audio_083026"
+      },
+      {
+        "arabText": "وَمِزَاجُهٗ مِنْ تَسْنِيْمٍۙ\n",
+        "latinText": "wa mizājuhụ min tasnīm\n",
+        "translation": "Dan campurannya dari tasnim,\n",
+        "audio": "audio_083027"
+      },
+      {
+        "arabText": "عَيْنًا يَّشْرَبُ بِهَا الْمُقَرَّبُوْنَۗ\n",
+        "latinText": "'ainay yasyrabu bihal-muqarrabụn\n",
+        "translation": "(yaitu) mata air yang diminum oleh mereka yang dekat (kepada Allah).\n",
+        "audio": "audio_083028"
+      },
+      {
+        "arabText": "اِنَّ الَّذِيْنَ اَجْرَمُوْا كَانُوْا مِنَ الَّذِيْنَ اٰمَنُوْا يَضْحَكُوْنَۖ\n",
+        "latinText": "innallażīna ajramụ kānụ minallażīna āmanụ yaḍ-ḥakụn\n",
+        "translation": "Sesungguhnya orang-orang yang berdosa adalah mereka yang dahulu menertawakan orang-orang yang beriman.\n",
+        "audio": "audio_083029"
+      },
+      {
+        "arabText": "وَاِذَا مَرُّوْا بِهِمْ يَتَغَامَزُوْنَۖ\n",
+        "latinText": "wa iżā marrụ bihim yatagāmazụn\n",
+        "translation": "Dan apabila mereka (orang-orang yang beriman) melintas di hadapan mereka, mereka saling mengedip-ngedipkan matanya,\n",
+        "audio": "audio_083030"
+      },
+      {
+        "arabText": "وَاِذَا انْقَلَبُوْٓا اِلٰٓى اَهْلِهِمُ انْقَلَبُوْا فَكِهِيْنَۖ\n",
+        "latinText": "wa iżangqalabū ilā ahlihimungqalabụ fakihīn\n",
+        "translation": "dan apabila kembali kepada kaumnya, mereka kembali dengan gembira ria.\n",
+        "audio": "audio_083031"
+      },
+      {
+        "arabText": "وَاِذَا رَاَوْهُمْ قَالُوْٓا اِنَّ هٰٓؤُلَاۤءِ لَضَاۤلُّوْنَۙ\n",
+        "latinText": "wa iżā ra`auhum qālū inna hā`ulā`i laḍāllụn\n",
+        "translation": "Dan apabila mereka melihat (orang-orang mukmin), mereka mengatakan, “Sesungguhnya mereka benar-benar orang-orang sesat,”\n",
+        "audio": "audio_083032"
+      },
+      {
+        "arabText": "وَمَآ اُرْسِلُوْا عَلَيْهِمْ حٰفِظِيْنَۗ\n",
+        "latinText": "wa mā ursilụ 'alaihim ḥāfiẓīn\n",
+        "translation": "padahal (orang-orang yang berdosa itu), mereka tidak diutus sebagai penjaga (orang-orang mukmin).\n",
+        "audio": "audio_083033"
+      },
+      {
+        "arabText": "فَالْيَوْمَ الَّذِيْنَ اٰمَنُوْا مِنَ الْكُفَّارِ يَضْحَكُوْنَۙ\n",
+        "latinText": "fal-yaumallażīna āmanụ minal-kuffāri yaḍ-ḥakụn\n",
+        "translation": "Maka pada hari ini, orang-orang yang beriman yang menertawakan orang-orang kafir,\n",
+        "audio": "audio_083034"
+      },
+      {
+        "arabText": "عَلَى الْاَرَاۤىِٕكِ يَنْظُرُوْنَۗ\n",
+        "latinText": "'alal-arā`iki yanẓurụn\n",
+        "translation": "mereka (duduk) di atas dipan-dipan melepas pandangan.\n",
+        "audio": "audio_083035"
+      },
+      {
+        "arabText": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوْا يَفْعَلُوْنَ\n",
+        "latinText": "hal ṡuwwibal-kuffāru mā kānụ yaf'alụn\n",
+        "translation": "Apakah orang-orang kafir itu diberi balasan (hukuman) terhadap apa yang telah mereka perbuat?\n",
+        "audio": "audio_083036"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 19,
+    "nama": "Al-Infithar",
+    "nomor": 82,
+    "ayatList": [
+      {
+        "arabText": "اِذَا السَّمَاۤءُ انْفَطَرَتْۙ\n",
+        "latinText": "iżas-samā`unfaṭarat\n",
+        "translation": "Apabila langit terbelah,\n",
+        "audio": "audio_082001"
+      },
+      {
+        "arabText": "وَاِذَا الْكَوَاكِبُ انْتَثَرَتْۙ\n",
+        "latinText": "wa iżal-kawākibuntaṡarat\n",
+        "translation": "dan apabila bintang-bintang jatuh berserakan,\n",
+        "audio": "audio_082002"
+      },
+      {
+        "arabText": "وَاِذَا الْبِحَارُ فُجِّرَتْۙ\n",
+        "latinText": "wa iżal-biḥāru fujjirat\n",
+        "translation": "dan apabila lautan dijadikan meluap,\n",
+        "audio": "audio_082003"
+      },
+      {
+        "arabText": "وَاِذَا الْقُبُوْرُ بُعْثِرَتْۙ\n",
+        "latinText": "wa iżal-qubụru bu'ṡirat\n",
+        "translation": "dan apabila kuburan-kuburan dibongkar,\n",
+        "audio": "audio_082004"
+      },
+      {
+        "arabText": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَاَخَّرَتْۗ\n",
+        "latinText": "'alimat nafsum mā qaddamat wa akhkharat\n",
+        "translation": "(maka) setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(nya).\n",
+        "audio": "audio_082005"
+      },
+      {
+        "arabText": "يٰٓاَيُّهَا الْاِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيْمِۙ\n",
+        "latinText": "yā ayyuhal-insānu mā garraka birabbikal-karīm\n",
+        "translation": "Wahai manusia! Apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Mahamulia,\n",
+        "audio": "audio_082006"
+      },
+      {
+        "arabText": "الَّذِيْ خَلَقَكَ فَسَوّٰىكَ فَعَدَلَكَۙ\n",
+        "latinText": "allażī khalaqaka fa sawwāka fa 'adalak\n",
+        "translation": "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang,\n",
+        "audio": "audio_082007"
+      },
+      {
+        "arabText": "فِيْٓ اَيِّ صُوْرَةٍ مَّا شَاۤءَ رَكَّبَكَۗ\n",
+        "latinText": "fī ayyi ṣụratim mā syā`a rakkabak\n",
+        "translation": "dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu.\n",
+        "audio": "audio_082008"
+      },
+      {
+        "arabText": "كَلَّا بَلْ تُكَذِّبُوْنَ بِالدِّيْنِۙ\n",
+        "latinText": "kallā bal tukażżibụna bid-dīn\n",
+        "translation": "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan.\n",
+        "audio": "audio_082009"
+      },
+      {
+        "arabText": "وَاِنَّ عَلَيْكُمْ لَحٰفِظِيْنَۙ\n",
+        "latinText": "wa inna 'alaikum laḥāfiẓīn\n",
+        "translation": "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu),\n",
+        "audio": "audio_082010"
+      },
+      {
+        "arabText": "كِرَامًا كَاتِبِيْنَۙ\n",
+        "latinText": "kirāmang kātibīn\n",
+        "translation": "yang mulia (di sisi Allah) dan yang mencatat (amal perbuatanmu),\n",
+        "audio": "audio_082011"
+      },
+      {
+        "arabText": "يَعْلَمُوْنَ مَا تَفْعَلُوْنَ\n",
+        "latinText": "ya'lamụna mā taf'alụn\n",
+        "translation": "mereka mengetahui apa yang kamu kerjakan.\n",
+        "audio": "audio_082012"
+      },
+      {
+        "arabText": "اِنَّ الْاَبْرَارَ لَفِيْ نَعِيْمٍۙ\n",
+        "latinText": "innal-abrāra lafī na'īm\n",
+        "translation": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan,\n",
+        "audio": "audio_082013"
+      },
+      {
+        "arabText": "وَّاِنَّ الْفُجَّارَ لَفِيْ جَحِيْمٍ\n",
+        "latinText": "wa innal-fujjāra lafī jaḥīm\n",
+        "translation": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka.\n",
+        "audio": "audio_082014"
+      },
+      {
+        "arabText": "يَصْلَوْنَهَا يَوْمَ الدِّيْنِ\n",
+        "latinText": "yaṣlaunahā yaumad-dīn\n",
+        "translation": "Mereka masuk ke dalamnya pada hari pembalasan.\n",
+        "audio": "audio_082015"
+      },
+      {
+        "arabText": "وَمَا هُمْ عَنْهَا بِغَاۤىِٕبِيْنَۗ\n",
+        "latinText": "wa mā hum 'an-hā bigā`ibīn\n",
+        "translation": "Dan mereka tidak mungkin keluar dari neraka itu.\n",
+        "audio": "audio_082016"
+      },
+      {
+        "arabText": "وَمَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۙ\n",
+        "latinText": "wa mā adrāka mā yaumud-dīn\n",
+        "translation": "Dan tahukah kamu apakah hari pembalasan itu?\n",
+        "audio": "audio_082017"
+      },
+      {
+        "arabText": "ثُمَّ مَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۗ\n",
+        "latinText": "ṡumma mā adrāka mā yaumud-dīn\n",
+        "translation": "Sekali lagi, tahukah kamu apakah hari pembalasan itu?\n",
+        "audio": "audio_082018"
+      },
+      {
+        "arabText": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۗوَالْاَمْرُ يَوْمَىِٕذٍ لِّلّٰهِ\n",
+        "latinText": "yauma lā tamliku nafsul linafsin syai`ā, wal-amru yauma`iżil lillāh\n",
+        "translation": "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah.\n",
+        "audio": "audio_082019"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 29,
+    "nama": "At-Takwir",
+    "nomor": 81,
+    "ayatList": [
+      {
+        "arabText": "اِذَا الشَّمْسُ كُوِّرَتْۖ\n",
+        "latinText": "iżasy-syamsu kuwwirat\n",
+        "translation": "Apabila matahari digulung,\n",
+        "audio": "audio_081001"
+      },
+      {
+        "arabText": "وَاِذَا النُّجُوْمُ انْكَدَرَتْۖ\n",
+        "latinText": "wa iżan-nujụmungkadarat\n",
+        "translation": "dan apabila bintang-bintang berjatuhan,\n",
+        "audio": "audio_081002"
+      },
+      {
+        "arabText": "وَاِذَا الْجِبَالُ سُيِّرَتْۖ\n",
+        "latinText": "wa iżal-jibālu suyyirat\n",
+        "translation": "dan apabila gunung-gunung dihancurkan,\n",
+        "audio": "audio_081003"
+      },
+      {
+        "arabText": "وَاِذَا الْعِشَارُ عُطِّلَتْۖ\n",
+        "latinText": "wa iżal-'isyāru 'uṭṭilat\n",
+        "translation": "dan apabila unta-unta yang bunting ditinggalkan (tidak terurus),\n",
+        "audio": "audio_081004"
+      },
+      {
+        "arabText": "وَاِذَا الْوُحُوْشُ حُشِرَتْۖ\n",
+        "latinText": "wa iżal-wuḥụsyu ḥusyirat\n",
+        "translation": "dan apabila binatang-binatang liar dikumpulkan,\n",
+        "audio": "audio_081005"
+      },
+      {
+        "arabText": "وَاِذَا الْبِحَارُ سُجِّرَتْۖ\n",
+        "latinText": "wa iżal-biḥāru sujjirat\n",
+        "translation": "dan apabila lautan dipanaskan,\n",
+        "audio": "audio_081006"
+      },
+      {
+        "arabText": "وَاِذَا النُّفُوْسُ زُوِّجَتْۖ\n",
+        "latinText": "wa iżan-nufụsu zuwwijat\n",
+        "translation": "dan apabila roh-roh dipertemukan (dengan tubuh),\n",
+        "audio": "audio_081007"
+      },
+      {
+        "arabText": "وَاِذَا الْمَوْءٗدَةُ سُىِٕلَتْۖ\n",
+        "latinText": "wa iżal-mau`ụdatu su`ilat\n",
+        "translation": "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya,\n",
+        "audio": "audio_081008"
+      },
+      {
+        "arabText": "بِاَيِّ ذَنْۢبٍ قُتِلَتْۚ\n",
+        "latinText": "bi`ayyi żambing qutilat\n",
+        "translation": "karena dosa apa dia dibunuh?\n",
+        "audio": "audio_081009"
+      },
+      {
+        "arabText": "وَاِذَا الصُّحُفُ نُشِرَتْۖ\n",
+        "latinText": "wa iżaṣ-ṣuḥufu nusyirat\n",
+        "translation": "Dan apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar,\n",
+        "audio": "audio_081010"
+      },
+      {
+        "arabText": "وَاِذَا السَّمَاۤءُ كُشِطَتْۖ\n",
+        "latinText": "wa iżas-samā`u kusyiṭat\n",
+        "translation": "dan apabila langit dilenyapkan,\n",
+        "audio": "audio_081011"
+      },
+      {
+        "arabText": "وَاِذَا الْجَحِيْمُ سُعِّرَتْۖ\n",
+        "latinText": "wa iżal-jaḥīmu su''irat\n",
+        "translation": "dan apabila neraka Jahim dinyalakan,\n",
+        "audio": "audio_081012"
+      },
+      {
+        "arabText": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۖ\n",
+        "latinText": "wa iżal-jannatu uzlifat\n",
+        "translation": "dan apabila surga didekatkan,\n",
+        "audio": "audio_081013"
+      },
+      {
+        "arabText": "عَلِمَتْ نَفْسٌ مَّآ اَحْضَرَتْۗ\n",
+        "latinText": "'alimat nafsum mā aḥḍarat\n",
+        "translation": "setiap jiwa akan mengetahui apa yang telah dikerjakannya.\n",
+        "audio": "audio_081014"
+      },
+      {
+        "arabText": "فَلَآ اُقْسِمُ بِالْخُنَّسِۙ\n",
+        "latinText": "fa lā uqsimu bil-khunnas\n",
+        "translation": "Aku bersumpah demi bintang-bintang,\n",
+        "audio": "audio_081015"
+      },
+      {
+        "arabText": "الْجَوَارِ الْكُنَّسِۙ\n",
+        "latinText": "al-jawāril-kunnas\n",
+        "translation": "yang beredar dan terbenam,\n",
+        "audio": "audio_081016"
+      },
+      {
+        "arabText": "وَالَّيْلِ اِذَا عَسْعَسَۙ\n",
+        "latinText": "wal-laili iżā 'as'as\n",
+        "translation": "demi malam apabila telah larut,\n",
+        "audio": "audio_081017"
+      },
+      {
+        "arabText": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ\n",
+        "latinText": "waṣ-ṣub-ḥi iżā tanaffas\n",
+        "translation": "dan demi subuh apabila fajar telah menyingsing,\n",
+        "audio": "audio_081018"
+      },
+      {
+        "arabText": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍۙ\n",
+        "latinText": "innahụ laqaulu rasụling karīm\n",
+        "translation": "sesungguhnya (Al-Qur'an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),\n",
+        "audio": "audio_081019"
+      },
+      {
+        "arabText": "ذِيْ قُوَّةٍ عِنْدَ ذِى الْعَرْشِ مَكِيْنٍۙ\n",
+        "latinText": "żī quwwatin 'inda żil-'arsyi makīn\n",
+        "translation": "yang memiliki kekuatan, memiliki kedudukan tinggi di sisi (Allah) yang memiliki ‘Arsy,\n",
+        "audio": "audio_081020"
+      },
+      {
+        "arabText": "مُّطَاعٍ ثَمَّ اَمِيْنٍۗ\n",
+        "latinText": "muṭā'in ṡamma amīn\n",
+        "translation": "yang di sana (di alam malaikat) ditaati dan dipercaya.\n",
+        "audio": "audio_081021"
+      },
+      {
+        "arabText": "وَمَا صَاحِبُكُمْ بِمَجْنُوْنٍۚ\n",
+        "latinText": "wa mā ṣāḥibukum bimajnụn\n",
+        "translation": "Dan temanmu (Muhammad) itu bukanlah orang gila.\n",
+        "audio": "audio_081022"
+      },
+      {
+        "arabText": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبِيْنِۚ\n",
+        "latinText": "wa laqad ra`āhu bil-ufuqil-mubīn\n",
+        "translation": "Dan sungguh, dia (Muhammad) telah melihatnya (Jibril) di ufuk yang terang.\n",
+        "audio": "audio_081023"
+      },
+      {
+        "arabText": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِيْنٍۚ\n",
+        "latinText": "wa mā huwa 'alal-gaibi biḍanīn\n",
+        "translation": "Dan dia (Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib.\n",
+        "audio": "audio_081024"
+      },
+      {
+        "arabText": "وَمَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيْمٍۚ\n",
+        "latinText": "wa mā huwa biqauli syaiṭānir rajīm\n",
+        "translation": "Dan (Al-Qur'an) itu bukanlah perkataan setan yang terkutuk,\n",
+        "audio": "audio_081025"
+      },
+      {
+        "arabText": "فَاَيْنَ تَذْهَبُوْنَۗ\n",
+        "latinText": "fa aina taż-habụn\n",
+        "translation": "maka ke manakah kamu akan pergi?\n",
+        "audio": "audio_081026"
+      },
+      {
+        "arabText": "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَۙ\n",
+        "latinText": "in huwa illā żikrul lil-'ālamīn\n",
+        "translation": "(Al-Qur'an) itu tidak lain adalah peringatan bagi seluruh alam,\n",
+        "audio": "audio_081027"
+      },
+      {
+        "arabText": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّسْتَقِيْمَۗ\n",
+        "latinText": "liman syā`a mingkum ay yastaqīm\n",
+        "translation": "(yaitu) bagi siapa di antara kamu yang menghendaki menempuh jalan yang lurus.\n",
+        "audio": "audio_081028"
+      },
+      {
+        "arabText": "وَمَا تَشَاۤءُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ رَبُّ الْعٰلَمِيْنَ\n",
+        "latinText": "wa mā tasyā`ụna illā ay yasyā`allāhu rabbul-'ālamīn\n",
+        "translation": "Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan seluruh alam.\n",
+        "audio": "audio_081029"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 42,
+    "nama": "Abasa",
+    "nomor": 80,
+    "ayatList": [
+      {
+        "arabText": "عَبَسَ وَتَوَلّٰىٓۙ\n",
+        "latinText": "'abasa wa tawallā\n",
+        "translation": "Dia (Muhammad) berwajah masam dan berpaling,\n",
+        "audio": "audio_080001"
+      },
+      {
+        "arabText": "اَنْ جَاۤءَهُ الْاَعْمٰىۗ\n",
+        "latinText": "an jā`ahul-a'mā\n",
+        "translation": "karena seorang buta telah datang kepadanya (Abdullah bin Ummi Maktum).\n",
+        "audio": "audio_080002"
+      },
+      {
+        "arabText": "وَمَا يُدْرِيْكَ لَعَلَّهٗ يَزَّكّٰىٓۙ\n",
+        "latinText": "wa mā yudrīka la'allahụ yazzakkā\n",
+        "translation": "Dan tahukah engkau (Muhammad) barangkali dia ingin menyucikan dirinya (dari dosa),\n",
+        "audio": "audio_080003"
+      },
+      {
+        "arabText": "اَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرٰىۗ\n",
+        "latinText": "au yażżakkaru fa tanfa'ahuż-żikrā\n",
+        "translation": "atau dia (ingin) mendapatkan pengajaran, yang memberi manfaat kepadanya?\n",
+        "audio": "audio_080004"
+      },
+      {
+        "arabText": "اَمَّا مَنِ اسْتَغْنٰىۙ\n",
+        "latinText": "ammā manistagnā\n",
+        "translation": "Adapun orang yang merasa dirinya serba cukup (pembesar-pembesar Quraisy),\n",
+        "audio": "audio_080005"
+      },
+      {
+        "arabText": "فَاَنْتَ لَهٗ تَصَدّٰىۗ\n",
+        "latinText": "fa anta lahụ taṣaddā\n",
+        "translation": "maka engkau (Muhammad) memberi perhatian kepadanya,\n",
+        "audio": "audio_080006"
+      },
+      {
+        "arabText": "وَمَا عَلَيْكَ اَلَّا يَزَّكّٰىۗ\n",
+        "latinText": "wa mā 'alaika allā yazzakkā\n",
+        "translation": "padahal tidak ada (cela) atasmu kalau dia tidak menyucikan diri (beriman).\n",
+        "audio": "audio_080007"
+      },
+      {
+        "arabText": "وَاَمَّا مَنْ جَاۤءَكَ يَسْعٰىۙ\n",
+        "latinText": "wa ammā man jā`aka yas'ā\n",
+        "translation": "Dan adapun orang yang datang kepadamu dengan bersegera (untuk mendapatkan pengajaran),\n",
+        "audio": "audio_080008"
+      },
+      {
+        "arabText": "وَهُوَ يَخْشٰىۙ\n",
+        "latinText": "wa huwa yakhsyā\n",
+        "translation": "sedang dia takut (kepada Allah),\n",
+        "audio": "audio_080009"
+      },
+      {
+        "arabText": "فَاَنْتَ عَنْهُ تَلَهّٰىۚ\n",
+        "latinText": "fa anta 'an-hu talahhā\n",
+        "translation": "engkau (Muhammad) malah mengabaikannya.\n",
+        "audio": "audio_080010"
+      },
+      {
+        "arabText": "كَلَّآ اِنَّهَا تَذْكِرَةٌ ۚ\n",
+        "latinText": "kallā innahā tażkirah\n",
+        "translation": "Sekali-kali jangan (begitu)! Sungguh, (ajaran-ajaran Allah) itu suatu peringatan,\n",
+        "audio": "audio_080011"
+      },
+      {
+        "arabText": "فَمَنْ شَاۤءَ ذَكَرَهٗ ۘ\n",
+        "latinText": "fa man syā`a żakarah\n",
+        "translation": "maka barangsiapa menghendaki, tentulah dia akan memperhatikannya,\n",
+        "audio": "audio_080012"
+      },
+      {
+        "arabText": "فِيْ صُحُفٍ مُّكَرَّمَةٍۙ\n",
+        "latinText": "fī ṣuḥufim mukarramah\n",
+        "translation": "di dalam kitab-kitab yang dimuliakan (di sisi Allah),\n",
+        "audio": "audio_080013"
+      },
+      {
+        "arabText": "مَّرْفُوْعَةٍ مُّطَهَّرَةٍ ۢ ۙ\n",
+        "latinText": "marfụ'atim muṭahharah\n",
+        "translation": "yang ditinggikan (dan) disucikan,\n",
+        "audio": "audio_080014"
+      },
+      {
+        "arabText": "بِاَيْدِيْ سَفَرَةٍۙ\n",
+        "latinText": "bi`aidī safarah\n",
+        "translation": "di tangan para utusan (malaikat),\n",
+        "audio": "audio_080015"
+      },
+      {
+        "arabText": "كِرَامٍۢ بَرَرَةٍۗ\n",
+        "latinText": "kirāmim bararah\n",
+        "translation": "yang mulia lagi berbakti.\n",
+        "audio": "audio_080016"
+      },
+      {
+        "arabText": "قُتِلَ الْاِنْسَانُ مَآ اَكْفَرَهٗۗ\n",
+        "latinText": "qutilal-insānu mā akfarah\n",
+        "translation": "Celakalah manusia! Alangkah kufurnya dia!\n",
+        "audio": "audio_080017"
+      },
+      {
+        "arabText": "مِنْ اَيِّ شَيْءٍ خَلَقَهٗۗ\n",
+        "latinText": "min ayyi syai`in khalaqah\n",
+        "translation": "Dari apakah Dia (Allah) menciptakannya?\n",
+        "audio": "audio_080018"
+      },
+      {
+        "arabText": "مِنْ نُّطْفَةٍۗ خَلَقَهٗ فَقَدَّرَهٗۗ\n",
+        "latinText": "min nuṭfah, khalaqahụ fa qaddarah\n",
+        "translation": "Dari setetes mani, Dia menciptakannya lalu menentukannya.\n",
+        "audio": "audio_080019"
+      },
+      {
+        "arabText": "ثُمَّ السَّبِيْلَ يَسَّرَهٗۙ\n",
+        "latinText": "ṡummas-sabīla yassarah\n",
+        "translation": "Kemudian jalannya Dia mudahkan,\n",
+        "audio": "audio_080020"
+      },
+      {
+        "arabText": "ثُمَّ اَمَاتَهٗ فَاَقْبَرَهٗۙ\n",
+        "latinText": "ṡumma amātahụ fa aqbarah\n",
+        "translation": "kemudian Dia mematikannya lalu menguburkannya,\n",
+        "audio": "audio_080021"
+      },
+      {
+        "arabText": "ثُمَّ اِذَا شَاۤءَ اَنْشَرَهٗۗ\n",
+        "latinText": "ṡumma iżā syā`a ansyarah\n",
+        "translation": "kemudian jika Dia menghendaki, Dia membangkitkannya kembali.\n",
+        "audio": "audio_080022"
+      },
+      {
+        "arabText": "كَلَّا لَمَّا يَقْضِ مَآ اَمَرَهٗۗ\n",
+        "latinText": "kallā lammā yaqḍi mā amarah\n",
+        "translation": "Sekali-kali jangan (begitu)! Dia (manusia) itu belum melaksanakan apa yang Dia (Allah) perintahkan kepadanya.\n",
+        "audio": "audio_080023"
+      },
+      {
+        "arabText": "فَلْيَنْظُرِ الْاِنْسَانُ اِلٰى طَعَامِهٖٓ ۙ\n",
+        "latinText": "falyanẓuril-insānu ilā ṭa'āmih\n",
+        "translation": "Maka hendaklah manusia itu memperhatikan makanannya.\n",
+        "audio": "audio_080024"
+      },
+      {
+        "arabText": "اَنَّا صَبَبْنَا الْمَاۤءَ صَبًّاۙ\n",
+        "latinText": "annā ṣababnal-mā`a ṣabbā\n",
+        "translation": "Kamilah yang telah mencurahkan air melimpah (dari langit),\n",
+        "audio": "audio_080025"
+      },
+      {
+        "arabText": "ثُمَّ شَقَقْنَا الْاَرْضَ شَقًّاۙ\n",
+        "latinText": "ṡumma syaqaqnal-arḍa syaqqā\n",
+        "translation": "kemudian Kami belah bumi dengan sebaik-baiknya,\n",
+        "audio": "audio_080026"
+      },
+      {
+        "arabText": "فَاَنْۢبَتْنَا فِيْهَا حَبًّاۙ\n",
+        "latinText": "fa ambatnā fīhā ḥabbā\n",
+        "translation": "lalu di sana Kami tumbuhkan biji-bijian,\n",
+        "audio": "audio_080027"
+      },
+      {
+        "arabText": "وَّعِنَبًا وَّقَضْبًاۙ\n",
+        "latinText": "wa 'inabaw wa qaḍbā\n",
+        "translation": "dan anggur dan sayur-sayuran,\n",
+        "audio": "audio_080028"
+      },
+      {
+        "arabText": "وَّزَيْتُوْنًا وَّنَخْلًاۙ\n",
+        "latinText": "wa zaitụnaw wa nakhlā\n",
+        "translation": "dan zaitun dan pohon kurma,\n",
+        "audio": "audio_080029"
+      },
+      {
+        "arabText": "وَّحَدَاۤئِقَ غُلْبًا\n",
+        "latinText": "wa ḥadā`iqa gulbā\n",
+        "translation": "dan kebun-kebun (yang) rindang,\n",
+        "audio": "audio_080030"
+      },
+      {
+        "arabText": "وَفَاكِهَةً وَّاَبًّا\n",
+        "latinText": "wa fākihataw wa abbā\n",
+        "translation": "dan buah-buahan serta rerumputan.\n",
+        "audio": "audio_080031"
+      },
+      {
+        "arabText": "مَتَاعًا لَّكُمْ وَلِاَنْعَامِكُمْۗ\n",
+        "latinText": "matā'al lakum wa li`an'āmikum\n",
+        "translation": "(Semua itu) untuk kesenanganmu dan untuk hewan-hewan ternakmu.\n",
+        "audio": "audio_080032"
+      },
+      {
+        "arabText": "فَاِذَا جَاۤءَتِ الصَّاۤخَّةُ ۖ\n",
+        "latinText": "fa iżā jā`atiṣ-ṣākhkhah\n",
+        "translation": "Maka apabila datang suara yang memekakkan (tiupan sangkakala yang kedua),\n",
+        "audio": "audio_080033"
+      },
+      {
+        "arabText": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ اَخِيْهِۙ\n",
+        "latinText": "yauma yafirrul-mar`u min akhīh\n",
+        "translation": "pada hari itu manusia lari dari saudaranya,\n",
+        "audio": "audio_080034"
+      },
+      {
+        "arabText": "وَاُمِّهٖ وَاَبِيْهِۙ\n",
+        "latinText": "wa ummihī wa abīh\n",
+        "translation": "dan dari ibu dan bapaknya,\n",
+        "audio": "audio_080035"
+      },
+      {
+        "arabText": "وَصَاحِبَتِهٖ وَبَنِيْهِۗ\n",
+        "latinText": "wa ṣāḥibatihī wa banīh\n",
+        "translation": "dan dari istri dan anak-anaknya.\n",
+        "audio": "audio_080036"
+      },
+      {
+        "arabText": "لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَىِٕذٍ شَأْنٌ يُّغْنِيْهِۗ\n",
+        "latinText": "likullimri`im min-hum yauma`iżin sya`nuy yugnīh\n",
+        "translation": "Setiap orang dari mereka pada hari itu mempunyai urusan yang menyibukkannya.\n",
+        "audio": "audio_080037"
+      },
+      {
+        "arabText": "وُجُوْهٌ يَّوْمَىِٕذٍ مُّسْفِرَةٌۙ\n",
+        "latinText": "wujụhuy yauma`iżim musfirah\n",
+        "translation": "Pada hari itu ada wajah-wajah yang berseri-seri,\n",
+        "audio": "audio_080038"
+      },
+      {
+        "arabText": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ ۚ\n",
+        "latinText": "ḍāḥikatum mustabsyirah\n",
+        "translation": "tertawa dan gembira ria,\n",
+        "audio": "audio_080039"
+      },
+      {
+        "arabText": "وَوُجُوْهٌ يَّوْمَىِٕذٍ عَلَيْهَا غَبَرَةٌۙ\n",
+        "latinText": "wa wujụhuy yauma`iżin 'alaihā gabarah\n",
+        "translation": "dan pada hari itu ada (pula) wajah-wajah yang tertutup debu (suram),\n",
+        "audio": "audio_080040"
+      },
+      {
+        "arabText": "تَرْهَقُهَا قَتَرَةٌ ۗ\n",
+        "latinText": "tarhaquhā qatarah\n",
+        "translation": "tertutup oleh kegelapan (ditimpa kehinaan dan kesusahan).\n",
+        "audio": "audio_080041"
+      },
+      {
+        "arabText": "اُولٰۤىِٕكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ\n",
+        "latinText": "ulā`ika humul-kafaratul-fajarah\n",
+        "translation": "Mereka itulah orang-orang kafir yang durhaka.\n",
+        "audio": "audio_080042"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 46,
+    "nama": "An-Naziat",
+    "nomor": 79,
+    "ayatList": [
+      {
+        "arabText": "وَالنّٰزِعٰتِ غَرْقًاۙ\n",
+        "latinText": "wan-nāzi'āti garqā\n",
+        "translation": "Demi (malaikat) yang mencabut (nyawa) dengan keras.\n",
+        "audio": "audio_079001"
+      },
+      {
+        "arabText": "وَّالنّٰشِطٰتِ نَشْطًاۙ\n",
+        "latinText": "wan-nāsyiṭāti nasyṭā\n",
+        "translation": "Demi (malaikat) yang mencabut (nyawa) dengan lemah lembut.\n",
+        "audio": "audio_079002"
+      },
+      {
+        "arabText": "وَّالسّٰبِحٰتِ سَبْحًاۙ\n",
+        "latinText": "was-sābiḥāti sab-ḥā\n",
+        "translation": "Demi (malaikat) yang turun dari langit dengan cepat,\n",
+        "audio": "audio_079003"
+      },
+      {
+        "arabText": "فَالسّٰبِقٰتِ سَبْقًاۙ\n",
+        "latinText": "fas-sābiqāti sabqā\n",
+        "translation": "dan (malaikat) yang mendahului dengan kencang,\n",
+        "audio": "audio_079004"
+      },
+      {
+        "arabText": "فَالْمُدَبِّرٰتِ اَمْرًاۘ\n",
+        "latinText": "fal-mudabbirāti amrā\n",
+        "translation": "dan (malaikat) yang mengatur urusan (dunia).\n",
+        "audio": "audio_079005"
+      },
+      {
+        "arabText": "يَوْمَ تَرْجُفُ الرَّاجِفَةُۙ\n",
+        "latinText": "yauma tarjufur-rājifah\n",
+        "translation": "(Sungguh, kamu akan dibangkitkan) pada hari ketika tiupan pertama mengguncangkan alam,\n",
+        "audio": "audio_079006"
+      },
+      {
+        "arabText": "تَتْبَعُهَا الرَّادِفَةُ ۗ\n",
+        "latinText": "tatba'uhar-rādifah\n",
+        "translation": "(tiupan pertama) itu diiringi oleh tiupan kedua.\n",
+        "audio": "audio_079007"
+      },
+      {
+        "arabText": "قُلُوْبٌ يَّوْمَىِٕذٍ وَّاجِفَةٌۙ\n",
+        "latinText": "qulụbuy yauma`iżiw wājifah\n",
+        "translation": "Hati manusia pada waktu itu merasa sangat takut,\n",
+        "audio": "audio_079008"
+      },
+      {
+        "arabText": "اَبْصَارُهَا خَاشِعَةٌ ۘ\n",
+        "latinText": "abṣāruhā khāsyi'ah\n",
+        "translation": "pandangannya tunduk.\n",
+        "audio": "audio_079009"
+      },
+      {
+        "arabText": "يَقُوْلُوْنَ ءَاِنَّا لَمَرْدُوْدُوْنَ فِى الْحَافِرَةِۗ\n",
+        "latinText": "yaqụlụna a innā lamardụdụna fil-ḥāfirah\n",
+        "translation": "(Orang-orang kafir) berkata, “Apakah kita benar-benar akan dikembalikan kepada kehidupan yang semula?\n",
+        "audio": "audio_079010"
+      },
+      {
+        "arabText": "ءَاِذَا كُنَّا عِظَامًا نَّخِرَةً ۗ\n",
+        "latinText": "a iżā kunnā 'iẓāman nakhirah\n",
+        "translation": "Apakah (akan dibangkitkan juga) apabila kita telah menjadi tulang belulang yang hancur?”\n",
+        "audio": "audio_079011"
+      },
+      {
+        "arabText": "قَالُوْا تِلْكَ اِذًا كَرَّةٌ خَاسِرَةٌ ۘ\n",
+        "latinText": "qālụ tilka iżang karratun khāsirah\n",
+        "translation": "Mereka berkata, “Kalau demikian, itu adalah suatu pengembalian yang merugikan.”\n",
+        "audio": "audio_079012"
+      },
+      {
+        "arabText": "فَاِنَّمَا هِيَ زَجْرَةٌ وَّاحِدَةٌۙ\n",
+        "latinText": "fa innamā hiya zajratuw wāḥidah\n",
+        "translation": "Maka pengembalian itu hanyalah dengan sekali tiupan saja.\n",
+        "audio": "audio_079013"
+      },
+      {
+        "arabText": "فَاِذَا هُمْ بِالسَّاهِرَةِۗ\n",
+        "latinText": "fa iżā hum bis-sāhirah\n",
+        "translation": "Maka seketika itu mereka hidup kembali di bumi (yang baru).\n",
+        "audio": "audio_079014"
+      },
+      {
+        "arabText": "هَلْ اَتٰىكَ حَدِيْثُ مُوْسٰىۘ\n",
+        "latinText": "hal atāka ḥadīṡu mụsā\n",
+        "translation": "Sudahkah sampai kepadamu (Muhammad) kisah Musa?\n",
+        "audio": "audio_079015"
+      },
+      {
+        "arabText": "اِذْ نَادٰىهُ رَبُّهٗ بِالْوَادِ الْمُقَدَّسِ طُوًىۚ\n",
+        "latinText": "iż nādāhu rabbuhụ bil-wādil-muqaddasi ṭuwā\n",
+        "translation": "Ketika Tuhan memanggilnya (Musa) di lembah suci yaitu Lembah Tuwa;\n",
+        "audio": "audio_079016"
+      },
+      {
+        "arabText": "اِذْهَبْ اِلٰى فِرْعَوْنَ اِنَّهٗ طَغٰىۖ\n",
+        "latinText": "iż-hab ilā fir'auna innahụ ṭagā\n",
+        "translation": "pergilah engkau kepada Fir‘aun! Sesungguhnya dia telah melampaui batas,\n",
+        "audio": "audio_079017"
+      },
+      {
+        "arabText": "فَقُلْ هَلْ لَّكَ اِلٰٓى اَنْ تَزَكّٰىۙ\n",
+        "latinText": "fa qul hal laka ilā an tazakkā\n",
+        "translation": "Maka katakanlah (kepada Fir‘aun), “Adakah keinginanmu untuk membersihkan diri (dari kesesatan),\n",
+        "audio": "audio_079018"
+      },
+      {
+        "arabText": "وَاَهْدِيَكَ اِلٰى رَبِّكَ فَتَخْشٰىۚ\n",
+        "latinText": "wa ahdiyaka ilā rabbika fa takhsyā\n",
+        "translation": "dan engkau akan kupimpin ke jalan Tuhanmu agar engkau takut kepada-Nya?”\n",
+        "audio": "audio_079019"
+      },
+      {
+        "arabText": "فَاَرٰىهُ الْاٰيَةَ الْكُبْرٰىۖ\n",
+        "latinText": "fa arāhul-āyatal-kubrā\n",
+        "translation": "Lalu (Musa) memperlihatkan kepadanya mukjizat yang besar.\n",
+        "audio": "audio_079020"
+      },
+      {
+        "arabText": "فَكَذَّبَ وَعَصٰىۖ\n",
+        "latinText": "fa każżaba wa 'aṣā\n",
+        "translation": "Tetapi dia (Fir‘aun) mendustakan dan mendurhakai.\n",
+        "audio": "audio_079021"
+      },
+      {
+        "arabText": "ثُمَّ اَدْبَرَ يَسْعٰىۖ\n",
+        "latinText": "ṡumma adbara yas'ā\n",
+        "translation": "Kemudian dia berpaling seraya berusaha menantang (Musa).\n",
+        "audio": "audio_079022"
+      },
+      {
+        "arabText": "فَحَشَرَ فَنَادٰىۖ\n",
+        "latinText": "fa ḥasyara fa nādā\n",
+        "translation": "Kemudian dia mengumpulkan (pembesar-pembesarnya) lalu berseru (memanggil kaumnya).\n",
+        "audio": "audio_079023"
+      },
+      {
+        "arabText": "فَقَالَ اَنَا۠ رَبُّكُمُ الْاَعْلٰىۖ\n",
+        "latinText": "fa qāla ana rabbukumul-a'lā\n",
+        "translation": "(Seraya) berkata, “Akulah tuhanmu yang paling tinggi.”\n",
+        "audio": "audio_079024"
+      },
+      {
+        "arabText": "فَاَخَذَهُ اللّٰهُ نَكَالَ الْاٰخِرَةِ وَالْاُوْلٰىۗ\n",
+        "latinText": "fa akhażahullāhu nakālal-ākhirati wal-ụlā\n",
+        "translation": "Maka Allah menghukumnya dengan azab di akhirat dan siksaan di dunia.\n",
+        "audio": "audio_079025"
+      },
+      {
+        "arabText": "اِنَّ فِيْ ذٰلِكَ لَعِبْرَةً لِّمَنْ يَّخْشٰى ۗ\n",
+        "latinText": "inna fī żālika la'ibratal limay yakhsyā\n",
+        "translation": "Sungguh, pada yang demikian itu terdapat pelajaran bagi orang yang takut (kepada Allah).\n",
+        "audio": "audio_079026"
+      },
+      {
+        "arabText": "ءَاَنْتُمْ اَشَدُّ خَلْقًا اَمِ السَّمَاۤءُ ۚ بَنٰىهَاۗ\n",
+        "latinText": "a antum asyaddu khalqan amis-samā`, banāhā\n",
+        "translation": "Apakah penciptaan kamu yang lebih hebat ataukah langit yang telah dibangun-Nya?\n",
+        "audio": "audio_079027"
+      },
+      {
+        "arabText": "رَفَعَ سَمْكَهَا فَسَوّٰىهَاۙ\n",
+        "latinText": "rafa'a samkahā fa sawwāhā\n",
+        "translation": "Dia telah meninggikan bangunannya lalu menyempurnakannya,\n",
+        "audio": "audio_079028"
+      },
+      {
+        "arabText": "وَاَغْطَشَ لَيْلَهَا وَاَخْرَجَ ضُحٰىهَاۖ\n",
+        "latinText": "wa agṭasya lailahā wa akhraja ḍuḥāhā\n",
+        "translation": "dan Dia menjadikan malamnya (gelap gulita), dan menjadikan siangnya (terang benderang).\n",
+        "audio": "audio_079029"
+      },
+      {
+        "arabText": "وَالْاَرْضَ بَعْدَ ذٰلِكَ دَحٰىهَاۗ\n",
+        "latinText": "wal-arḍa ba'da żālika daḥāhā\n",
+        "translation": "Dan setelah itu bumi Dia hamparkan.\n",
+        "audio": "audio_079030"
+      },
+      {
+        "arabText": "اَخْرَجَ مِنْهَا مَاۤءَهَا وَمَرْعٰىهَاۖ\n",
+        "latinText": "akhraja min-hā mā`ahā wa mar'āhā\n",
+        "translation": "Darinya Dia pancarkan mata air, dan (ditumbuhkan) tumbuh-tumbuhannya.\n",
+        "audio": "audio_079031"
+      },
+      {
+        "arabText": "وَالْجِبَالَ اَرْسٰىهَاۙ\n",
+        "latinText": "wal-jibāla arsāhā\n",
+        "translation": "Dan gunung-gunung Dia pancangkan dengan teguh.\n",
+        "audio": "audio_079032"
+      },
+      {
+        "arabText": "مَتَاعًا لَّكُمْ وَلِاَنْعَامِكُمْۗ\n",
+        "latinText": "matā'al lakum wa li`an'āmikum\n",
+        "translation": "(Semua itu) untuk kesenanganmu dan untuk hewan-hewan ternakmu.\n",
+        "audio": "audio_079033"
+      },
+      {
+        "arabText": "فَاِذَا جَاۤءَتِ الطَّاۤمَّةُ الْكُبْرٰىۖ\n",
+        "latinText": "fa iżā jā`atiṭ-ṭāmmatul-kubrā\n",
+        "translation": "Maka apabila malapetaka besar (hari Kiamat) telah datang,\n",
+        "audio": "audio_079034"
+      },
+      {
+        "arabText": "يَوْمَ يَتَذَكَّرُ الْاِنْسَانُ مَا سَعٰىۙ\n",
+        "latinText": "yauma yatażakkarul-insānu mā sa'ā\n",
+        "translation": "yaitu pada hari (ketika) manusia teringat akan apa yang telah dikerjakannya,\n",
+        "audio": "audio_079035"
+      },
+      {
+        "arabText": "وَبُرِّزَتِ الْجَحِيْمُ لِمَنْ يَّرٰى\n",
+        "latinText": "wa burrizatil-jaḥīmu limay yarā\n",
+        "translation": "dan neraka diperlihatkan dengan jelas kepada setiap orang yang melihat.\n",
+        "audio": "audio_079036"
+      },
+      {
+        "arabText": "فَاَمَّا مَنْ طَغٰىۖ\n",
+        "latinText": "fa ammā man ṭagā\n",
+        "translation": "Maka adapun orang yang melampaui batas,\n",
+        "audio": "audio_079037"
+      },
+      {
+        "arabText": "وَاٰثَرَ الْحَيٰوةَ الدُّنْيَاۙ\n",
+        "latinText": "wa āṡaral-ḥayātad-dun-yā\n",
+        "translation": "dan lebih mengutamakan kehidupan dunia,\n",
+        "audio": "audio_079038"
+      },
+      {
+        "arabText": "فَاِنَّ الْجَحِيْمَ هِيَ الْمَأْوٰىۗ\n",
+        "latinText": "fa innal-jaḥīma hiyal-ma`wā\n",
+        "translation": "maka sungguh, nerakalah tempat tinggalnya.\n",
+        "audio": "audio_079039"
+      },
+      {
+        "arabText": "وَاَمَّا مَنْ خَافَ مَقَامَ رَبِّهٖ وَنَهَى النَّفْسَ عَنِ الْهَوٰىۙ\n",
+        "latinText": "wa ammā man khāfa maqāma rabbihī wa nahan-nafsa 'anil-hawā\n",
+        "translation": "Dan adapun orang-orang yang takut kepada kebesaran Tuhannya dan menahan diri dari (keinginan) hawa nafsunya,\n",
+        "audio": "audio_079040"
+      },
+      {
+        "arabText": "فَاِنَّ الْجَنَّةَ هِيَ الْمَأْوٰىۗ\n",
+        "latinText": "fa innal-jannata hiyal-ma`wā\n",
+        "translation": "maka sungguh, surgalah tempat tinggal(nya).\n",
+        "audio": "audio_079041"
+      },
+      {
+        "arabText": "يَسْـَٔلُوْنَكَ عَنِ السَّاعَةِ اَيَّانَ مُرْسٰىهَاۗ\n",
+        "latinText": "yas`alụnaka 'anis-sā'ati ayyāna mursāhā\n",
+        "translation": "Mereka (orang-orang kafir) bertanya kepadamu (Muhammad) tentang hari Kiamat, “Kapankah terjadinya?”\n",
+        "audio": "audio_079042"
+      },
+      {
+        "arabText": "فِيْمَ اَنْتَ مِنْ ذِكْرٰىهَاۗ\n",
+        "latinText": "fīma anta min żikrāhā\n",
+        "translation": "Untuk apa engkau perlu menyebutkannya (waktunya)?\n",
+        "audio": "audio_079043"
+      },
+      {
+        "arabText": "اِلٰى رَبِّكَ مُنْتَهٰىهَاۗ\n",
+        "latinText": "ilā rabbika muntahāhā\n",
+        "translation": "Kepada Tuhanmulah (dikembalikan) kesudahannya (ketentuan waktunya).\n",
+        "audio": "audio_079044"
+      },
+      {
+        "arabText": "اِنَّمَآ اَنْتَ مُنْذِرُ مَنْ يَّخْشٰىهَاۗ\n",
+        "latinText": "innamā anta munżiru may yakhsyāhā\n",
+        "translation": "Engkau (Muhammad) hanyalah pemberi peringatan bagi siapa yang takut kepadanya (hari Kiamat).\n",
+        "audio": "audio_079045"
+      },
+      {
+        "arabText": "كَاَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوْٓا اِلَّا عَشِيَّةً اَوْ ضُحٰىهَا\n",
+        "latinText": "ka`annahum yauma yaraunahā lam yalbaṡū illā 'asyiyyatan au ḍuḥāhā\n",
+        "translation": "Pada hari ketika mereka melihat hari Kiamat itu (karena suasananya hebat), mereka merasa seakan-akan hanya (sebentar saja) tinggal (di dunia) pada waktu sore atau pagi hari.\n",
+        "audio": "audio_079046"
+      }
+    ]
+  },
+  {
+    "jumlahAyat": 40,
+    "nama": "An-Naba",
+    "nomor": 78,
+    "ayatList": [
+      {
+        "arabText": "عَمَّ يَتَسَاۤءَلُوْنَۚ\n",
+        "latinText": "'amma yatasā`alụn\n",
+        "translation": "Tentang apakah mereka saling bertanya-tanya?\n",
+        "audio": "audio_078001"
+      },
+      {
+        "arabText": "عَنِ النَّبَاِ الْعَظِيْمِۙ\n",
+        "latinText": "'anin-naba`il-'aẓīm\n",
+        "translation": "Tentang berita yang besar (hari kebangkitan),\n",
+        "audio": "audio_078002"
+      },
+      {
+        "arabText": "الَّذِيْ هُمْ فِيْهِ مُخْتَلِفُوْنَۗ\n",
+        "latinText": "allażī hum fīhi mukhtalifụn\n",
+        "translation": "yang dalam hal itu mereka berselisih.\n",
+        "audio": "audio_078003"
+      },
+      {
+        "arabText": "كَلَّا سَيَعْلَمُوْنَۙ\n",
+        "latinText": "kallā saya'lamụn\n",
+        "translation": "Tidak! Kelak mereka akan mengetahui,\n",
+        "audio": "audio_078004"
+      },
+      {
+        "arabText": "ثُمَّ كَلَّا سَيَعْلَمُوْنَ\n",
+        "latinText": "ṡumma kallā saya'lamụn\n",
+        "translation": "sekali lagi tidak! Kelak mereka akan mengetahui.\n",
+        "audio": "audio_078005"
+      },
+      {
+        "arabText": "اَلَمْ نَجْعَلِ الْاَرْضَ مِهٰدًاۙ\n",
+        "latinText": "a lam naj'alil-arḍa mihādā\n",
+        "translation": "Bukankah Kami telah menjadikan bumi sebagai hamparan,\n",
+        "audio": "audio_078006"
+      },
+      {
+        "arabText": "وَّالْجِبَالَ اَوْتَادًاۖ\n",
+        "latinText": "wal-jibāla autādā\n",
+        "translation": "dan gunung-gunung sebagai pasak?\n",
+        "audio": "audio_078007"
+      },
+      {
+        "arabText": "وَّخَلَقْنٰكُمْ اَزْوَاجًاۙ\n",
+        "latinText": "wa khalaqnākum azwājā\n",
+        "translation": "Dan Kami menciptakan kamu berpasang-pasangan,\n",
+        "audio": "audio_078008"
+      },
+      {
+        "arabText": "وَّجَعَلْنَا نَوْمَكُمْ سُبَاتًاۙ\n",
+        "latinText": "wa ja'alnā naumakum subātā\n",
+        "translation": "dan Kami menjadikan tidurmu untuk istirahat,\n",
+        "audio": "audio_078009"
+      },
+      {
+        "arabText": "وَّجَعَلْنَا الَّيْلَ لِبَاسًاۙ\n",
+        "latinText": "wa ja'alnal-laila libāsā\n",
+        "translation": "dan Kami menjadikan malam sebagai pakaian,\n",
+        "audio": "audio_078010"
+      },
+      {
+        "arabText": "وَّجَعَلْنَا النَّهَارَ مَعَاشًاۚ\n",
+        "latinText": "wa ja'alnan-nahāra ma'āsyā\n",
+        "translation": "dan Kami menjadikan siang untuk mencari penghidupan,\n",
+        "audio": "audio_078011"
+      },
+      {
+        "arabText": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًاۙ\n",
+        "latinText": "wa banainā fauqakum sab'an syidādā\n",
+        "translation": "dan Kami membangun di atas kamu tujuh (langit) yang kokoh,\n",
+        "audio": "audio_078012"
+      },
+      {
+        "arabText": "وَّجَعَلْنَا سِرَاجًا وَّهَّاجًاۖ\n",
+        "latinText": "wa ja'alnā sirājaw wahhājā\n",
+        "translation": "dan Kami menjadikan pelita yang terang-benderang (matahari),\n",
+        "audio": "audio_078013"
+      },
+      {
+        "arabText": "وَّاَنْزَلْنَا مِنَ الْمُعْصِرٰتِ مَاۤءً ثَجَّاجًاۙ\n",
+        "latinText": "wa anzalnā minal-mu'ṣirāti mā`an ṡajjājā\n",
+        "translation": "dan Kami turunkan dari awan, air hujan yang tercurah dengan hebatnya,\n",
+        "audio": "audio_078014"
+      },
+      {
+        "arabText": "لِّنُخْرِجَ بِهٖ حَبًّا وَّنَبَاتًاۙ\n",
+        "latinText": "linukhrija bihī ḥabbaw wa nabātā\n",
+        "translation": "untuk Kami tumbuhkan dengan air itu biji-bijian dan tanam-tanaman,\n",
+        "audio": "audio_078015"
+      },
+      {
+        "arabText": "وَّجَنّٰتٍ اَلْفَافًاۗ\n",
+        "latinText": "wa jannātin alfāfā\n",
+        "translation": "dan kebun-kebun yang rindang.\n",
+        "audio": "audio_078016"
+      },
+      {
+        "arabText": "اِنَّ يَوْمَ الْفَصْلِ كَانَ مِيْقَاتًاۙ\n",
+        "latinText": "inna yaumal-faṣli kāna mīqātā\n",
+        "translation": "Sungguh, hari keputusan adalah suatu waktu yang telah ditetapkan,\n",
+        "audio": "audio_078017"
+      },
+      {
+        "arabText": "يَّوْمَ يُنْفَخُ فِى الصُّوْرِ فَتَأْتُوْنَ اَفْوَاجًاۙ\n",
+        "latinText": "yauma yunfakhu fiṣ-ṣụri fa ta`tụna afwājā\n",
+        "translation": "(yaitu) pada hari (ketika) sangkakala ditiup, lalu kamu datang berbondong-bondong,\n",
+        "audio": "audio_078018"
+      },
+      {
+        "arabText": "وَّفُتِحَتِ السَّمَاۤءُ فَكَانَتْ اَبْوَابًاۙ\n",
+        "latinText": "wa futiḥatis-samā`u fa kānat abwābā\n",
+        "translation": "dan langit pun dibukalah, maka terdapatlah beberapa pintu,\n",
+        "audio": "audio_078019"
+      },
+      {
+        "arabText": "وَّسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًاۗ\n",
+        "latinText": "wa suyyiratil-jibālu fa kānat sarābā\n",
+        "translation": "dan gunung-gunung pun dijalankan sehingga menjadi fatamorgana.\n",
+        "audio": "audio_078020"
+      },
+      {
+        "arabText": "اِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًاۙ\n",
+        "latinText": "inna jahannama kānat mirṣādā\n",
+        "translation": "Sungguh, (neraka) Jahanam itu (sebagai) tempat mengintai (bagi penjaga yang mengawasi isi neraka),\n",
+        "audio": "audio_078021"
+      },
+      {
+        "arabText": "لِّلطّٰغِيْنَ مَاٰبًاۙ\n",
+        "latinText": "liṭ-ṭāgīna ma`ābā\n",
+        "translation": "menjadi tempat kembali bagi orang-orang yang melampaui batas.\n",
+        "audio": "audio_078022"
+      },
+      {
+        "arabText": "لّٰبِثِيْنَ فِيْهَآ اَحْقَابًاۚ\n",
+        "latinText": "lābiṡīna fīhā aḥqābā\n",
+        "translation": "Mereka tinggal di sana dalam masa yang lama,\n",
+        "audio": "audio_078023"
+      },
+      {
+        "arabText": "لَا يَذُوْقُوْنَ فِيْهَا بَرْدًا وَّلَا شَرَابًاۙ\n",
+        "latinText": "lā yażụqụna fīhā bardaw wa lā syarābā\n",
+        "translation": "mereka tidak merasakan kesejukan di dalamnya dan tidak (pula mendapat) minuman,\n",
+        "audio": "audio_078024"
+      },
+      {
+        "arabText": "اِلَّا حَمِيْمًا وَّغَسَّاقًاۙ\n",
+        "latinText": "illā ḥamīmaw wa gassāqā\n",
+        "translation": "selain air yang mendidih dan nanah,\n",
+        "audio": "audio_078025"
+      },
+      {
+        "arabText": "جَزَاۤءً وِّفَاقًاۗ\n",
+        "latinText": "jazā`aw wifāqā\n",
+        "translation": "sebagai pembalasan yang setimpal.\n",
+        "audio": "audio_078026"
+      },
+      {
+        "arabText": "اِنَّهُمْ كَانُوْا لَا يَرْجُوْنَ حِسَابًاۙ\n",
+        "latinText": "innahum kānụ lā yarjụna ḥisābā\n",
+        "translation": "Sesungguhnya dahulu mereka tidak pernah mengharapkan perhitungan.\n",
+        "audio": "audio_078027"
+      },
+      {
+        "arabText": "وَّكَذَّبُوْا بِاٰيٰتِنَا كِذَّابًاۗ\n",
+        "latinText": "wa każżabụ bi`āyātinā kiżżābā\n",
+        "translation": "Dan mereka benar-benar mendustakan ayat-ayat Kami.\n",
+        "audio": "audio_078028"
+      },
+      {
+        "arabText": "وَكُلَّ شَيْءٍ اَحْصَيْنٰهُ كِتٰبًاۙ\n",
+        "latinText": "wa kulla syai`in aḥṣaināhu kitābā\n",
+        "translation": "Dan segala sesuatu telah Kami catat dalam suatu Kitab (buku catatan amalan manusia).\n",
+        "audio": "audio_078029"
+      },
+      {
+        "arabText": "فَذُوْقُوْا فَلَنْ نَّزِيْدَكُمْ اِلَّا عَذَابًا\n",
+        "latinText": "fa żụqụ fa lan nazīdakum illā 'ażābā\n",
+        "translation": "Maka karena itu rasakanlah! Maka tidak ada yang akan Kami tambahkan kepadamu selain azab.\n",
+        "audio": "audio_078030"
+      },
+      {
+        "arabText": "اِنَّ لِلْمُتَّقِيْنَ مَفَازًاۙ\n",
+        "latinText": "inna lil-muttaqīna mafāzā\n",
+        "translation": "Sungguh, orang-orang yang bertakwa mendapat kemenangan,\n",
+        "audio": "audio_078031"
+      },
+      {
+        "arabText": "حَدَاۤىِٕقَ وَاَعْنَابًاۙ\n",
+        "latinText": "ḥadā`iqa wa a'nābā\n",
+        "translation": "(yaitu) kebun-kebun dan buah anggur,\n",
+        "audio": "audio_078032"
+      },
+      {
+        "arabText": "وَّكَوَاعِبَ اَتْرَابًاۙ\n",
+        "latinText": "wa kawā'iba atrābā\n",
+        "translation": "dan gadis-gadis montok yang sebaya,\n",
+        "audio": "audio_078033"
+      },
+      {
+        "arabText": "وَّكَأْسًا دِهَاقًاۗ\n",
+        "latinText": "wa ka`san dihāqā\n",
+        "translation": "dan gelas-gelas yang penuh (berisi minuman).\n",
+        "audio": "audio_078034"
+      },
+      {
+        "arabText": "لَا يَسْمَعُوْنَ فِيْهَا لَغْوًا وَّلَا كِذَّابًا\n",
+        "latinText": "lā yasma'ụna fīhā lagwaw wa lā kiżżābā\n",
+        "translation": "Di sana mereka tidak mendengar percakapan yang sia-sia maupun (perkataan) dusta.\n",
+        "audio": "audio_078035"
+      },
+      {
+        "arabText": "جَزَاۤءً مِّنْ رَّبِّكَ عَطَاۤءً حِسَابًاۙ\n",
+        "latinText": "jazā`am mir rabbika 'aṭā`an ḥisābā\n",
+        "translation": "Sebagai balasan dan pemberian yang cukup banyak dari Tuhanmu,\n",
+        "audio": "audio_078036"
+      },
+      {
+        "arabText": "رَّبِّ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا الرَّحْمٰنِ لَا يَمْلِكُوْنَ مِنْهُ خِطَابًاۚ\n",
+        "latinText": "rabbis-samāwāti wal-arḍi wa mā bainahumar-raḥmāni lā yamlikụna min-hu khiṭābā\n",
+        "translation": "Tuhan (yang memelihara) langit dan bumi dan apa yang ada di antara keduanya; Yang Maha Pengasih, mereka tidak mampu berbicara dengan Dia.\n",
+        "audio": "audio_078037"
+      },
+      {
+        "arabText": "يَوْمَ يَقُوْمُ الرُّوْحُ وَالْمَلٰۤىِٕكَةُ صَفًّاۙ لَّا يَتَكَلَّمُوْنَ اِلَّا مَنْ اَذِنَ لَهُ الرَّحْمٰنُ وَقَالَ صَوَابًا\n",
+        "latinText": "yauma yaqụmur-rụḥu wal-malā`ikatu ṣaffal lā yatakallamụna illā man ażina lahur-raḥmānu wa qāla ṣawābā\n",
+        "translation": "Pada hari, ketika ruh dan para malaikat berdiri bersaf-saf, mereka tidak berkata-kata, kecuali siapa yang telah diberi izin kepadanya oleh Tuhan Yang Maha Pengasih dan dia hanya mengatakan yang benar.\n",
+        "audio": "audio_078038"
+      },
+      {
+        "arabText": "ذٰلِكَ الْيَوْمُ الْحَقُّۚ فَمَنْ شَاۤءَ اتَّخَذَ اِلٰى رَبِّهٖ مَاٰبًا\n",
+        "latinText": "żālikal-yaumul-ḥaqq, fa man syā`attakhaża ilā rabbihī ma`ābā\n",
+        "translation": "Itulah hari yang pasti terjadi. Maka barang siapa menghendaki, niscaya dia menempuh jalan kembali kepada Tuhannya.\n",
+        "audio": "audio_078039"
+      },
+      {
+        "arabText": "اِنَّآ اَنْذَرْنٰكُمْ عَذَابًا قَرِيْبًا ەۙ يَّوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُوْلُ الْكٰفِرُ يٰلَيْتَنِيْ كُنْتُ تُرَابًا\n",
+        "latinText": "innā anżarnākum 'ażābang qarībay yauma yanẓurul-mar`u mā qaddamat yadāhu wa yaqụlul-kāfiru yā laitanī kuntu turābā\n",
+        "translation": "Sesungguhnya Kami telah memperingatkan kepadamu (orang kafir) azab yang dekat, pada hari manusia melihat apa yang telah diperbuat oleh kedua tangannya; dan orang kafir berkata, “Alangkah baiknya seandainya dahulu aku jadi tanah.”\n",
+        "audio": "audio_078040"
+      }
+    ]
+  }
+]
